@@ -1,6 +1,6 @@
 *{
     margin: auto;
-    padding: 0 auto;
+    padding: 0;
     box-sizing: border-box;
     font-family: 'Century Gothic';
 }
@@ -30,7 +30,7 @@ body{
 }
 
 #navbar a{
-    font-size: 4vh;
+    font-size: 3vh;
     text-decoration: none;
     height: 20vh;
     width: 25vw;
@@ -98,47 +98,38 @@ body{
     height: 20vh;
     width: 2px;
     background-color: var(--home-color);
-    /* box-shadow: 20px 0 4vw var(--home-color); */
 }
 
 #hover-color :nth-child(2){
     height: 20vh;
     width: 2px;
     background-color: var(--about-color);
-    /* box-shadow: 20px 0 4vw var(--about-color); */
 }
 
 #hover-color :nth-child(3){
     height: 20vh;
     width: 2px;
     background-color: var(--services-color);
-    /* box-shadow: 20px 0 4vw var(--services-color); */
 }
 
 #hover-color :nth-child(4){
     height: 20vh;
     width: 2px;
     background-color: var(--portfolio-color);
-    /* box-shadow: 20px 0 4vw var(--portfolio-color); */
 }
 
 #hover-color :nth-child(5){
     height: 20vh;
     width: 2px;
     background-color: var(--contact-color);
-    /* box-shadow: 20px 0 4vw var(--contact-color); */
 }
 
 #content{
-    /* width: 70vw;
-    margin: 0; */
     margin-left: 25vw;
-    /* margin-right: 0; */
 
     display: flex;
     flex-direction: column;
     position: fixed;
-    /* margin-top: -400vh; */
 
     transition: margin 700ms;
 }
@@ -158,7 +149,7 @@ body{
     background-color: var(--shadow-color);
     display: grid;
     grid-auto-rows: minmax(100px, auto);
-    padding: 10vw;
+    padding: 0 10vw;
     height: 100vh;
     width: 75vw;
     color: white;
@@ -166,15 +157,17 @@ body{
     font-size: 3vh;
     word-wrap: break-word;
     margin: auto;
+    align-content: center;
+    row-gap: 3vh;
+    overflow-wrap: anywhere;
 }
 
 #about p{
-    width: 100%;
+    width: 80%;
 }
 
 #about-container{
     display: grid;
-    width: auto;
     grid-template-columns: 1fr 1fr;
     gap: 3vw;
 }
@@ -198,15 +191,18 @@ body{
 #services{
     width: 75vw;
     height: 100vh;
-    padding: 7vh;
+    padding: 0 4vh;
     background-color: var(--shadow-color);
     color: white;
     display: grid;
-    place-items: center;
+    /* place-items: center; */
+    align-content: center;
 }
 
 #services span{
     font-size: 5vh;
+    overflow-wrap: anywhere;
+    width: 70%;
 }
 
 #portfolio{
@@ -274,11 +270,20 @@ body{
     place-items: center;
 }
 
-#contact :first-child{
+#contact div{
     display: grid;
     grid-template-columns: 5vw 1fr;
     row-gap: 4vh;
     column-gap: 20px;
+    width: 70%;
+    overflow-wrap: anywhere;
+    text-align:start;
+    justify-content: center;
+}
+
+#contact p{
+    float: left;
+    width: 100%;
 }
 
 #contact img{
@@ -304,21 +309,14 @@ body{
 
     #about-container{
         grid-template-columns: 1fr;
-        /* padding: auto; */
     }
 
     #about :first-child{
         align-self: end;
-        /* margin: auto; */
     }
 
     .html-display> a > img{
         width: 50vw;
     }
-
-    #contact :first-child{
-        overflow-wrap: anywhere;
-    }
-
 
 }
