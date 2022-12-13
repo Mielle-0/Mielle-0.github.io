@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="plist.css">
+    <script defer src="./js/plist.js"></script>
+    <link rel="shortcut icon" href="#">
+</head>
+<body>
+    <div id="header">
+        <img id="bg-main" src="./images/charlesdeluvio-CDJuKaNJHFA-unsplash.jpg" alt="">
+        <div id="bg-gradient"></div>
+        <div id="img-contain">
+            <img src="./images/charlesdeluvio-CDJuKaNJHFA-unsplash.jpg" alt="">
+        </div>
+        <div id="txt-contain">
+            <p>Going back in time</p>
+        </div>
+    </div>
+    <div id="list">
+        <ul>
+            <li>
+                <img src="./images/play-svgrepo-com.svg" alt="" id="play-btn" onclick="playPause()">
+                <img src="./images/shuffle-svgrepo-com.svg" alt="" >
+                <img src="./images/speaker-loud-volume-svgrepo-com.svg" alt="">
+
+                <div id="volDiv">
+                    <input type="range" name="volume" id="volID" value="70" max="100" oninput="changeVol()">
+                </div>
+
+                <img src="./images/share-svgrepo-com.svg" alt="" onclick="placeHolder()">
+            </li>
+            
+        </ul>
+    </div>
+    <div id="foot"></div>
+</body>
+</html>
