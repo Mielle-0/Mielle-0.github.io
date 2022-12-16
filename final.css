@@ -145,6 +145,16 @@ body{
     place-items: center;
 }
 
+#home button{
+    width: 7vw;
+    height: 5vh;
+    background-color: #1f8a0e;
+    margin-top: 4px;
+    font-size: small;
+    font-weight: 700;
+    color: white;
+}
+
 #about{
     background-color: var(--shadow-color);
     display: grid;
