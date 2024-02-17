@@ -14,10 +14,26 @@ body{
     flex-direction: column;
 }
 
+.text-asd{
+    height: 400px;
+    background-color: white;
+}
+
+.asdasd{
+    height: 100px;
+    background-color: chocolate;
+}
+
+/* .navbar{
+    position: sticky;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+} */
+
 .navbar > div{
     width: 80%;
     display: flex;
-
 }
 /* .navbar{
     width: 100%;
@@ -42,7 +58,7 @@ body{
 }
 
 .navname img{
-    max-width: 13vh;
+    max-width: 55px;
 }
 
 .tabs{
@@ -99,7 +115,7 @@ body{
 }
 
 .search span{
-    font-size: 4vh;
+    font-size: 25px;
     padding: 3px;
     cursor:pointer;
 }
@@ -124,11 +140,10 @@ body{
     width: 100%;
     margin: 0;
     background-color: #ffffff95;
-    height: 150vh;
 }
 
 .specials{
-    height: 80vh;
+    height: 570px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -143,4 +158,14 @@ body{
 .specials > h1{
     padding: 70px 30px;
     background-color: rgba(0, 0, 0, 0.3);
+}
+
+.c-div{
+    height: 800px;
+}
+
+.c-item{
+    /* height: 100%; */
+    width: 50%;
+    object-fit:contain;
 }
