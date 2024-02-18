@@ -127,6 +127,10 @@ section .bg{
     display: block;
 }
 
+.leaves .set div img{
+    height: 80px;
+}
+
 .leaves .set div:nth-child(1){
     left: 20%;
     animation: animate 20s linear infinite;
