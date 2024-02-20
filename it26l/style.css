@@ -4,7 +4,7 @@
 }
 
 body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Nunito Sans";
     background-color: rgb(255, 255, 255);
 }
 
@@ -24,6 +24,14 @@ body{
     background-color: chocolate;
 }
 
+.navbar{
+    background-color: rgb(0,161,88);
+    color: white;
+}
+
+.navbar a{
+    color: white;
+}
 /* .navbar{
     position: sticky;
     width: 100%;
@@ -84,11 +92,12 @@ body{
     margin: auto 0;
     display: flex;
     width: fit-content;
-    column-gap: 2vw;
+    column-gap: 17px;
 }
 
 .navbuttons > :last-child{
     background-color: white;
+    color: black;
     padding: 7px 14px;
     border-radius: 7px;
 }
@@ -96,6 +105,7 @@ body{
 .navbuttons span{
     /* vertical-align: middle; */
     align-self: center;
+    cursor: pointer;
 }
 
 .search{
@@ -118,6 +128,7 @@ body{
     font-size: 25px;
     padding: 3px;
     cursor:pointer;
+    color: black;
 }
 
 .search span:focus-visible{
@@ -136,6 +147,15 @@ body{
     margin: auto;
 }
 
+.line-color{
+    background-color: #7d7;
+    position: absolute;
+    top: 79px;
+    left: 0;
+    height: 2px;
+    width: 100%;
+}
+
 .main{
     width: 100%;
     margin: 0;
@@ -143,7 +163,7 @@ body{
 }
 
 .specials{
-    height: 570px;
+    height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -160,12 +180,11 @@ body{
     background-color: rgba(0, 0, 0, 0.3);
 }
 
-.c-div{
-    height: 800px;
+.carousel-item{
+    height: 500px;
 }
 
 .c-item{
-    /* height: 100%; */
-    width: 50%;
-    object-fit:contain;
+    object-fit:cover;
+    filter: brightness(0.6);
 }
