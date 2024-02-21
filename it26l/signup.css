@@ -26,7 +26,7 @@ section .bg{
     /* filter: brightness(-40%); */
 }
 
-.login{
+.signup{
     position: relative;
     padding: 60px;
     background: rgba(255, 255, 255, 0.25);
@@ -39,7 +39,11 @@ section .bg{
     box-shadow: 0 25px 50px rgba(0,0,0,0.1);
 }
 
-.login h2{
+.signup a{
+    align-self: center;
+}
+
+.signup h2{
     position: relative;
     width: 100%;
     text-align: center;
@@ -49,11 +53,11 @@ section .bg{
     margin-bottom: 10px;
 }
 
-.login .inputBox{
+.signup .inputBox{
     position: relative;
 }
 
-.login .inputBox input{
+.signup .inputBox input{
     position: relative;
     width: 100%;
     padding: 15px 20px;
@@ -65,11 +69,11 @@ section .bg{
     margin-bottom: 30px;
 }
 
-.login .inputBox input ::placeholder{
+.signup .inputBox input ::placeholder{
     color: rgba(255, 0, 0, 0.377);
 }
 
-.login .inputBox #btn{
+.signup .inputBox #btn{
     position: relative;
     border: none;
     outline: none;
@@ -81,23 +85,26 @@ section .bg{
     transition: 0.5s;
 }
 
-.login .inputBox #btn:hover{
+.signup .inputBox #btn:hover{
     background-color: #d64c42;
 }
 
-.login .group{
+.signup .group{
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
 }
 
-.login .group a{
+.signup .group a{
     font-size: 1.25em;
     color: #8f2c24;
     font-weight: 500;
     text-decoration: none;
 }
 
-.login .group a:nth-child(2){
+.signup .group a:nth-child(2){
     text-decoration: underline;
 }
 
