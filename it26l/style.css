@@ -15,41 +15,82 @@ body{
 }
 
 .text-asd{
-    height: 400px;
+    /* min-height: 350px; */
     background-color: white;
 }
 
 .three-text{
     margin: 0 auto;
-    height: 100%;
+    min-height: 320px;
+    padding: 20px 0;
     width: 80%;
     display: flex;
     flex-direction: row;
-    column-gap: 20px;
+    justify-content: space-evenly;
+    position: relative;
 }
 
-.three-text div{
-    height: 100%;
+.three-text .text-content{
     display: flex;
+    width: 30%;
     flex-direction: column;
     justify-content: center;
+    flex-wrap: wrap;
+}
+
+.three-text div > span{
+    font-size: 50px;
 }
 
 .text-separator-one{
+    top: 15%;
     position: absolute;
-    height: 5px;
-    background-color: #7d7;
+    height: 70%;
+    left: 33%;
+    width: 1px;
+    background-color: #01563F;
 }
 
 .text-separator-two{
     position: absolute;
-    height: 5px;
-    background-color: #7d7;
+    height: 70%;
+    top: 15%;
+    right: 33%;
+    width: 1px;
+    background-color: #01563F;
 }
 
-.asdasd{
-    height: 100px;
-    background-color: chocolate;
+.footer{
+    height: 400px;
+    background-color: rgb(0,161,88);
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    flex-wrap: wrap;
+    padding: 10px 0;
+}
+
+.footer div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+}
+
+.footer div a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.footer div img{
+    filter:invert(1);
+    width: 50px;
+}
+
+.footer :last-child{
+    row-gap: 10px;
 }
 
 .navbar{
@@ -57,10 +98,6 @@ body{
     /* background-color: white; */
     color: white;
     font-size: 18px;
-}
-
-.navbar a{
-    color: white;
 }
 
 .navbar > div{
@@ -91,13 +128,8 @@ body{
 
 .navbar-brand span{
     font-size: 25px;
-    height: 100%;
-    justify-self: center;
-    align-self: center;
-}
-
-.navbar-brand:hover{
-    color: rgb(255, 255, 255);
+    vertical-align: middle;
+    color: white;
 }
 
 .navname img{
@@ -130,10 +162,10 @@ body{
     column-gap: 17px;
 }
 
-.navbuttons > :last-child{
+.navbuttons :last-child{
     background-color: white;
     color: black;
-    padding: 7px 14px;
+    padding: 7px 10px;
     border-radius: 7px;
 }
 
@@ -143,9 +175,15 @@ body{
     cursor: pointer;
 }
 
+.navbuttons a:nth-child(2){
+    color: white;
+}
+
 .navbuttons a{
-    color: black;
+    color: rgb(0, 0, 0);
     text-decoration: none;
+    align-self: center;
+    cursor: pointer;
 }
 
 .search{
@@ -230,11 +268,14 @@ body{
 
 .c-item{
     object-fit:cover;
+    height: 100%;
+    /* position: relative; */
+    /* bottom: 50%; */
     filter: brightness(0.6);
 }
 
 .categories{
-    min-height: 700px;
+    /* min-height: 700px; */
     width: 80%;
     padding: 30px 0;
     display: flex;
@@ -244,6 +285,7 @@ body{
 
 .categ-items{
     width: 100%;
+    margin-top: 10px;
     display: flex;
     flex-wrap: wrap;
     column-gap: 14px;
@@ -251,12 +293,106 @@ body{
 }
 
 .categ-items h4{
-    border: 1px blue solid;
+    border: 1px #01563F solid;
     padding: 4px 7px;
     border-radius: 10px;
     cursor: pointer;
 }
 
 .categ-items h4:hover{
-    background-color: rgba(0, 136, 255, 0.478);
+    background-color: rgba(152, 255, 153, 0.4);
+}
+
+.categ-items > .active{
+    background-color: #98FF99;
+}
+
+.categ-items > .active:hover{
+    background-color: #98FF99;
+}
+
+h2{
+    margin: 0 auto;
+}
+
+hr{
+    margin: 10px 0;
+}
+
+.categ-selection{
+    padding: 20px 0;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 30px;
+    row-gap: 20px;
+}
+
+.selection-item{
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    overflow: hidden;
+}
+
+.selection-item img{
+    height: 120px;
+    object-fit: cover;
+    width: 100%;
+    border-radius: 5px;
+    float: center;
+}
+
+.selection-item a{
+    text-decoration: none;
+}
+
+.selection-item .quantity-adjust{
+    width: 100%;
+    display: flex;
+    padding: 4px 0;
+}
+
+.selection-item .quantity-adjust .counter{
+    font-size: 15px;
+    font-style: bold;
+    display: flex;
+    align-items: center;
+}
+
+.selection-item .quantity-adjust .material-symbols-outlined{
+    cursor: pointer;
+    /* width: 100%; */
+    padding: 4px 10px;
+}
+
+.selection-item button{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    border-radius: 5px;
+    border: #01563F 1px solid;
+    padding: 4px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 991px) {
+
 }
