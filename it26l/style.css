@@ -359,9 +359,15 @@ hr{
 
 .selection-item .quantity-adjust .counter{
     font-size: 15px;
-    font-style: bold;
+    /* font-weight: 1100; */
+    /* font-style:; */
+    font-weight: bold;
     display: flex;
     align-items: center;
+    justify-content: center;
+    margin: auto;
+
+    width: 32px;
 }
 
 .selection-item .quantity-adjust .material-symbols-outlined{

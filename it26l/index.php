@@ -12,49 +12,8 @@
 <body>
         <!-- Navigation Bar Section -->
         <!-- <center> -->
-            
-        <nav class="navbar navbar-expand-lg navbar-light fixed-top">
-            <div>
-                
-            <a class="navbar-brand" href="#">
-                <img src="img/1707387675660.png" width="60" height="55" alt="">
-                <span>Healthy Oasis</span>
-            </a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarText">
-              <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                  <!-- <a class="nav-link" href="#">Home</a> -->
-                </li>
-                <li class="nav-item">
-                  <!-- <a class="nav-link" href="#">Features</a> -->
-                </li>
-                <li class="nav-item">
-                  <!-- <a class="nav-link" href="#">Pricing</a> -->
-                </li>
-              </ul>
-              
-                
-              <div class="navbuttons">
-                    
-                <div class="search">
-                    <input type="text">
-                    <span class="material-symbols-outlined">
-                        search
-                    </span>
-                </div>
 
-                <a href="login.html">Log In</a>
-                <a href="signup.html">Sign Up</a>
-                
-
-            </div>
-            </div>
-
-            <div class="line-color">&nbsp;</div>
-        </nav>
+        <?php include 'navbar.php'; ?>
 
         <!-- </center> -->
 
@@ -168,7 +127,7 @@
 
               <div class="categ-selection">
                 
-                <div class="selection-item">
+                <!-- <div class="selection-item">
                   <img src="img/carousel-temp (2).jpg" alt="">
                   <a href="">Anime Girl</a>
                   <span>₱9,999.99</span>
@@ -187,20 +146,22 @@
                     </span>
                     <span>Add to Cart</span>
                   </button>
-                </div>
+                </div> -->
                 
-                <div class="selection-item">
+                <?php
+                
+                    for ($x = 0; $x <= 15; $x++) {
+
+                ?>
+
+                <div class="selection-item" data-order=<?php echo $x; ?>>
                   <img src="img/signup_img/Egg_JE2_BE2.webp" alt="">
                   <a href="">Egg</a>
                   <span>₱7.00</span>
                   <div class="quantity-adjust">
-                    <span class="material-symbols-outlined">
-                      remove
-                    </span>
-                    <span class="counter"><b>1</b></span>
-                    <span class="material-symbols-outlined">
-                      add
-                    </span> 
+                    <span class="material-symbols-outlined">remove</span>
+                    <span class="counter">1</span>
+                    <span class="material-symbols-outlined">add</span> 
                   </div>
                   <button>
                     <span class="material-symbols-outlined">
@@ -210,173 +171,9 @@
                   </button>
                 </div>
                 
-                <div class="selection-item">
-                  <img src="img/signup_img/Egg_JE2_BE2.webp" alt="">
-                  <a href="">Egg</a>
-                  <span>₱7.00</span>
-                  <div class="quantity-adjust">
-                    <span class="material-symbols-outlined">
-                      remove
-                    </span>
-                    <span class="counter"><b>1</b></span>
-                    <span class="material-symbols-outlined">
-                      add
-                    </span> 
-                  </div>
-                  <button>
-                    <span class="material-symbols-outlined">
-                    shopping_cart
-                    </span>
-                    <span>Add to Cart</span>
-                  </button>
-                </div>
-                
-                <div class="selection-item">
-                  <img src="img/signup_img/Egg_JE2_BE2.webp" alt="">
-                  <a href="">Egg</a>
-                  <span>₱7.00</span>
-                  <div class="quantity-adjust">
-                    <span class="material-symbols-outlined">
-                      remove
-                    </span>
-                    <span class="counter"><b>1</b></span>
-                    <span class="material-symbols-outlined">
-                      add
-                    </span> 
-                  </div>
-                  <button>
-                    <span class="material-symbols-outlined">
-                    shopping_cart
-                    </span>
-                    <span>Add to Cart</span>
-                  </button>
-                </div>
-                
-                <div class="selection-item">
-                  <img src="img/signup_img/Egg_JE2_BE2.webp" alt="">
-                  <a href="">Egg</a>
-                  <span>₱7.00</span>
-                  <div class="quantity-adjust">
-                    <span class="material-symbols-outlined">
-                      remove
-                    </span>
-                    <span class="counter"><b>1</b></span>
-                    <span class="material-symbols-outlined">
-                      add
-                    </span> 
-                  </div>
-                  <button>
-                    <span class="material-symbols-outlined">
-                    shopping_cart
-                    </span>
-                    <span>Add to Cart</span>
-                  </button>
-                </div>
-                
-                <div class="selection-item">
-                  <img src="img/signup_img/Egg_JE2_BE2.webp" alt="">
-                  <a href="">Egg</a>
-                  <span>₱7.00</span>
-                  <div class="quantity-adjust">
-                    <span class="material-symbols-outlined">
-                      remove
-                    </span>
-                    <span class="counter"><b>1</b></span>
-                    <span class="material-symbols-outlined">
-                      add
-                    </span> 
-                  </div>
-                  <button>
-                    <span class="material-symbols-outlined">
-                    shopping_cart
-                    </span>
-                    <span>Add to Cart</span>
-                  </button>
-                </div>
-                
-                <div class="selection-item">
-                  <img src="img/signup_img/Egg_JE2_BE2.webp" alt="">
-                  <a href="">Egg</a>
-                  <span>₱7.00</span>
-                  <div class="quantity-adjust">
-                    <span class="material-symbols-outlined">
-                      remove
-                    </span>
-                    <span class="counter"><b>1</b></span>
-                    <span class="material-symbols-outlined">
-                      add
-                    </span> 
-                  </div>
-                  <button>
-                    <span class="material-symbols-outlined">
-                    shopping_cart
-                    </span>
-                    <span>Add to Cart</span>
-                  </button>
-                </div>
-                
-                <div class="selection-item">
-                  <img src="img/signup_img/Egg_JE2_BE2.webp" alt="">
-                  <a href="">Egg</a>
-                  <span>₱7.00</span>
-                  <div class="quantity-adjust">
-                    <span class="material-symbols-outlined">
-                      remove
-                    </span>
-                    <span class="counter"><b>1</b></span>
-                    <span class="material-symbols-outlined">
-                      add
-                    </span> 
-                  </div>
-                  <button>
-                    <span class="material-symbols-outlined">
-                    shopping_cart
-                    </span>
-                    <span>Add to Cart</span>
-                  </button>
-                </div>
-                
-                <div class="selection-item">
-                  <img src="img/signup_img/Egg_JE2_BE2.webp" alt="">
-                  <a href="">Egg</a>
-                  <span>₱7.00</span>
-                  <div class="quantity-adjust">
-                    <span class="material-symbols-outlined">
-                      remove
-                    </span>
-                    <span class="counter"><b>1</b></span>
-                    <span class="material-symbols-outlined">
-                      add
-                    </span> 
-                  </div>
-                  <button>
-                    <span class="material-symbols-outlined">
-                    shopping_cart
-                    </span>
-                    <span>Add to Cart</span>
-                  </button>
-                </div>
-                
-                <div class="selection-item">
-                  <img src="img/signup_img/Egg_JE2_BE2.webp" alt="">
-                  <a href="">Egg</a>
-                  <span>₱7.00</span>
-                  <div class="quantity-adjust">
-                    <span class="material-symbols-outlined">
-                      remove
-                    </span>
-                    <span class="counter"><b>1</b></span>
-                    <span class="material-symbols-outlined">
-                      add
-                    </span> 
-                  </div>
-                  <button>
-                    <span class="material-symbols-outlined">
-                    shopping_cart
-                    </span>
-                    <span>Add to Cart</span>
-                  </button>
-                </div>
+                <?php
+                    }
+                ?>
 
               </div>
             </div>
@@ -417,5 +214,6 @@
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script> 
+    <script src="js/testscript.js"></script>
 </body>
 </html>

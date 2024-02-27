@@ -49,7 +49,7 @@ section .bg{
     text-align: center;
     font-size: 2.5em;
     font-weight: 600;
-    color: red;
+    color: #98FF99;
     margin-bottom: 10px;
 }
 
@@ -63,21 +63,21 @@ section .bg{
     padding: 15px 20px;
     outline: none;
     font-size: 1.25em;
-    color: red;
+    color: black;
     border-radius: 5px;
     border: none;
     margin-bottom: 30px;
 }
 
 .signup .inputBox input ::placeholder{
-    color: rgba(255, 0, 0, 0.377);
+    color: black;
 }
 
 .signup .inputBox #btn{
     position: relative;
     border: none;
     outline: none;
-    background-color: #8f2c24;
+    background-color: #01563F;
     color: #fff;
     cursor: pointer;
     font-size: 1.25em;
@@ -99,7 +99,7 @@ section .bg{
 
 .signup .group a{
     font-size: 1.25em;
-    color: #8f2c24;
+    color: #01563F;
     font-weight: 500;
     text-decoration: none;
 }

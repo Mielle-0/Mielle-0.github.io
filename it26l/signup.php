@@ -4,18 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="signup.css">
-    <title>Log In - Healthy Oasis</title>
+    <title>Sign Up - Healthy Oasis</title>
 </head>
 <body>
+    
     <div class="container">
+
         <section>
-        
-            <img src="https://images.unsplash.com/photo-1502375751885-4f494926ce5c?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                class="bg">
-        
+
+            <img src="img/bg.png" class="bg">
+
             <div class="signup">
-                <a href="index.html"><img src="img/1707387675660.png" alt="" width="70"></a>
-                <h2>Log In</h2>
+                <a href="index.php"><img src="img/1707387675660.png" alt="" width="70"></a>
+                <h2>Sign Up</h2>
                 <div class="inputBox">
                     <input type="email" placeholder="Email">
                 </div>
@@ -23,15 +24,19 @@
                     <input type="password" placeholder="Password">
                 </div>
                 <div class="inputBox">
-                    <input type="submit" value="Log In" id="btn">
+                    <input type="password" placeholder="Confirm Password">
+                </div>
+                <div class="inputBox">
+                    <input type="submit" value="Create Account" id="btn">
                 </div>
                 <div class="group">
                     <!-- <a href="">Forget Password</a> -->
-                    <a href="login.html">Forgot Password?</a> <br>
-                    <a href="signup.html">Create Account</a>
+                    <a href="login.php">Already have an account?</a>
                 </div>
             </div>
         </section>
+
     </div>
+
 </body>
 </html>
