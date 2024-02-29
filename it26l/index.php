@@ -10,23 +10,21 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-        <!-- Navigation Bar Section -->
-        <!-- <center> -->
 
-        <?php include 'navbar.php'; ?>
-
-        <!-- </center> -->
+    <?php 
+      session_start();
+      require 'php_functions/connection.php';
+      include 'navbar.php'; 
+    ?>
 
     <div class="container_main">
 
         <div class="main">
-            <!-- <center> -->
-
+          
             <!-- Landing Page -->
             <div class="specials">
                 <h1>An oasis providing good and pleasant services</h1>
             </div>
-
 
             <div class="text-asd">
               <div class="three-text">
@@ -110,52 +108,60 @@
               <hr>
               <div class="categ-items">
 
-                <h4 data-item="1" class="categ-btn active">Fresh Produce</h4>
-                <h4 data-item="2" class="categ-btn">Fresh Meat & Seafoods</h4>
-                <h4 data-item="3" class="categ-btn">Frozen Goods</h4>
-                <h4 data-item="4" class="categ-btn">Chilled & Dairy Items</h4>
-                <h4 data-item="5" class="categ-btn">Bakery</h4>
-                <h4 data-item="6" class="categ-btn">Pantry</h4>
-                <h4 data-item="7" class="categ-btn">Snacks</h4>
-                <h4 data-item="8" class="categ-btn">Beverage</h4>
-                <h4 data-item="9" class="categ-btn">Health & Beauty</h4>
-                <h4 data-item="10" class="categ-btn">Babies & Kids</h4>
-                <h4 data-item="11" class="categ-btn">Home Care</h4>
-                <h4 data-item="12" class="categ-btn">Pet Care</h4>
+                <?php
+
+                  $result = $db->query("SELECT c_name FROM t_categ");
+
+                  if ($result->num_rows > 0){
+
+                    $count = 1;
+                    while($row = $result->fetch_assoc()){
+
+                      echo '<h4 data-item="'.$count.'" class="categ-btn';
+                      if ($count == 1)
+                      echo ' active';
+                      echo '">'.$row["c_name"].'</h4>';
+                      $count++;
+                    }
+                  }
+
+                ?>
+
 
               </div>
 
               <div class="categ-selection">
-                
-                <!-- <div class="selection-item">
-                  <img src="img/carousel-temp (2).jpg" alt="">
-                  <a href="">Anime Girl</a>
-                  <span>₱9,999.99</span>
-                  <div class="quantity-adjust">
-                    <span class="material-symbols-outlined">
-                      remove
-                    </span>
-                    <span class="counter"><b>1</b></span>
-                    <span class="material-symbols-outlined">
-                      add
-                    </span> 
-                  </div>
-                  <button>
-                    <span class="material-symbols-outlined">
-                    shopping_cart
-                    </span>
-                    <span>Add to Cart</span>
-                  </button>
-                </div> -->
-                
-                <?php
-                
-                    for ($x = 0; $x <= 15; $x++) {
 
+                <?php
+
+                  $q = "SELECT p_name, p_unitOfMeasure, p_price FROM t_products WHERE c_id = 1";
+                  $result = $db->query($q);
+
+                  while($row = $result->fetch_assoc()){
+
+                    echo
+                    '
+                    <div class="selection-item">
+                      <img src="img/placeholder.jpg" alt="">
+                      <a href="">'.$row["p_name"].'</a>
+                      <span>₱'.$row["p_price"].' / '.$row["p_unitOfMeasure"].'</span>
+                      <div class="quantity-adjust">
+                        <span class="material-symbols-outlined">remove</span>
+                        <span class="counter">1</span>
+                        <span class="material-symbols-outlined">add</span> 
+                      </div>
+                      <button>
+                        <span class="material-symbols-outlined">
+                        shopping_cart
+                        </span>
+                        <span>Add to Cart</span>
+                      </button>
+                    </div>';
+                  }
                 ?>
 
-                <div class="selection-item" data-order=<?php echo $x; ?>>
-                  <img src="img/signup_img/Egg_JE2_BE2.webp" alt="">
+                <!-- <div class="selection-item">
+                  <img src="img/placeholder.jpg" alt="">
                   <a href="">Egg</a>
                   <span>₱7.00</span>
                   <div class="quantity-adjust">
@@ -169,11 +175,7 @@
                     </span>
                     <span>Add to Cart</span>
                   </button>
-                </div>
-                
-                <?php
-                    }
-                ?>
+                </div> -->
 
               </div>
             </div>
@@ -211,8 +213,7 @@
     </div>
 
 
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script> 
     <script src="js/testscript.js"></script>
 </body>

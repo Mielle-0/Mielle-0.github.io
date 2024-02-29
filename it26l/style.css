@@ -160,9 +160,10 @@ body{
     display: flex;
     width: fit-content;
     column-gap: 17px;
+    /* font-size: large; */
 }
 
-.navbuttons :last-child{
+.navbuttons .highlight{
     background-color: white;
     color: black;
     padding: 7px 10px;
@@ -173,10 +174,7 @@ body{
     /* vertical-align: middle; */
     align-self: center;
     cursor: pointer;
-}
-
-.navbuttons a:nth-child(2){
-    color: white;
+    font-size:xx-large;
 }
 
 .navbuttons a{
@@ -211,6 +209,67 @@ body{
 
 .search span:focus-visible{
     border: 0;
+}
+
+.cartBtn{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cartBtn a{
+    color: white;
+}
+
+.cartBtn .cartCount{
+    position: absolute;
+    z-index: 2;
+    font-size: medium;
+    background-color: #01563fc5;
+    border-radius: 50%;
+    bottom: -10px;
+    right: -10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 32px;
+    /* margin: 0 auto; */
+    padding: 4px 7px;
+    display: none;
+}
+
+.acntBtn{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#acntPopup{
+    position: absolute;
+    z-index: 3;
+    top: 30px;
+    right: 0;
+    flex-direction:column;
+    background-color: white;
+    /* padding: 7px 14px; */
+    border-radius: 5px;
+    text-align: end;
+    width: 100px;
+    display: none;
+    /* row-gap: 7px; */
+    /* padding: 20px; */
+}
+
+#acntPopup a{
+    width: 100px;
+    padding: 0px 14px;
+}
+
+#acntPopup a:hover{
+    background-color: #01563F;
+    color: white;
 }
 
 .userbar{

@@ -1,5 +1,10 @@
 
-            
+
+
+<?php 
+  session_start();
+?> 
+           
         <nav class="navbar navbar-expand-lg navbar-light fixed-top">
             <div>
                 
@@ -33,9 +38,34 @@
                     </span>
                 </div>
 
-                <a href="login.php">Log In</a>
-                <a href="signup.php">Sign Up</a>
+                <?php
+                if (isset($_SESSION["u_id"])){
+                ?>
                 
+                <div class="cartBtn">
+                  <a href=""><span class="material-symbols-outlined">shopping_cart</span></a>
+                  <span class="cartCount">99+</span>
+                </div>
+
+                <div class="acntBtn">
+                  <span class="material-symbols-outlined">person</span>
+
+                  <div id="acntPopup">
+                    <a href="">Profile</a>
+                    <a href="">Settings</a>
+                    <a href="">Logout</a>
+                  </div>
+                </div>
+                <?php
+                }else {
+                ?>
+
+                <a href="login.php">Log In</a>
+                <a href="signup.php" class="highlight">Sign Up</a>
+
+                <?php
+                }
+                ?>
 
             </div>
             </div>

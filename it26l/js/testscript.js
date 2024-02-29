@@ -1,10 +1,6 @@
 $(document).ready(function(){
 
-    // $(document).on('click', '.quantity-adjust .material-symbols-outlined', )
-
-    $(".quantity-adjust .material-symbols-outlined").click(function(){
-
-        var order = $(this).parent().parent().data("order");
+    $(document).on("mousedown touchstart", ".quantity-adjust span.material-symbols-outlined", function(){
 
         var quantity = parseInt($(this).parent().find(".counter").text(), 10);
         
@@ -13,17 +9,52 @@ $(document).ready(function(){
         else if (quantity > 1)
             quantity--;
 
-        // console.log($(this).html() == "add");
-
-        // if (quantity < 1)
         $(this).parent().find(".counter").text(quantity);
-        // console.log();
-        // console.log($(".selector-item[data-order="+order+"] .quantity-adjust").find(".counter").html());
-        // console.log($(".selector-item[data-order="+order+"]").html());
-        // var count = $(".selector-item[data-order="+order+"] .quantity-adjust .counter").val();
-        // var count = $(".quantity-adjust .counter").text();
-        // count++;
-        // $(".quantity-adjust .counter").text(count);
+        
     });
 
+    $(document).mouseup(function(e) 
+    {
+        var container = $("#acntPopup");
+
+        if (!container.is(e.target) && container.has(e.target).length === 0) 
+        {
+            container.hide();
+        }
+    });
+
+    $(document).on('click', '.acntBtn', function(){
+
+        if ($('#acntPopup').css('display') == 'none')
+            $('#acntPopup').css('display','flex');
+        else
+            $('#acntPopup').css('display','none');
+    });
+
+    $(document).on('click','.selection-item button', function(){
+        
+        alert("NOTE: create cart to add");
+    });
+
+    $('.categ-items h4.categ-btn').click(function(){
+
+        $(".categ-items h4.active").removeClass("active");
+        $(this).addClass('active');
+        
+        $.ajax({
+            type: 'POST',
+            url: 'php_functions/itemSelection.php',
+            data:{
+                item:$(this).data("item")
+            },
+            success:function(data){
+                
+                $(".categ-selection").empty()
+                $(".categ-selection").append(data);
+            },
+            error: function(data){
+                console.log("error");
+            } 
+        });
+    });
 });

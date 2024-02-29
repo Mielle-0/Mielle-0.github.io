@@ -12,7 +12,7 @@ section{
     align-items: center;
     width: 100%;
     height: 100vh;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 section .bg{
@@ -69,6 +69,36 @@ section .bg{
     margin-bottom: 30px;
 }
 
+.signup .inputBox .form-error{
+    color: red;
+    position: absolute;
+    left: 0;
+    right: 0;
+    border-radius: 4px;
+    width:fit-content;
+    padding: 2px 7px;
+    display: none;
+}
+
+.user-err{
+    top: 50px;
+}
+
+.email-err{
+    top: 135px;
+}
+
+.pass-err{
+    top: 220px;
+}
+
+.unexpected{
+    bottom: 5px;
+    margin: 0 auto;
+}
+
+
+
 .signup .inputBox input ::placeholder{
     color: black;
 }
@@ -86,7 +116,7 @@ section .bg{
 }
 
 .signup .inputBox #btn:hover{
-    background-color: #d64c42;
+    background-color: #7d7;
 }
 
 .signup .group{
@@ -99,7 +129,7 @@ section .bg{
 
 .signup .group a{
     font-size: 1.25em;
-    color: #01563F;
+    color: #98FF99;
     font-weight: 500;
     text-decoration: none;
 }
