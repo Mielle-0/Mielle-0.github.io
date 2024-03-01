@@ -97,7 +97,7 @@ body{
     background-color: rgb(0,161,88);
     /* background-color: white; */
     color: white;
-    font-size: 18px;
+    /* font-size: 10px; */
 }
 
 .navbar > div{
@@ -177,11 +177,19 @@ body{
     font-size:xx-large;
 }
 
+.navbuttons span::selection {
+    background-color: transparent;
+}
+
 .navbuttons a{
     color: rgb(0, 0, 0);
     text-decoration: none;
     align-self: center;
     cursor: pointer;
+}
+
+#logWhite{
+    color: white;
 }
 
 .search{
@@ -244,6 +252,9 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    column-gap: 4px;
+    padding: 2px 4px;
+    border-radius: 5px;
 }
 
 #acntPopup{
@@ -256,15 +267,17 @@ body{
     /* padding: 7px 14px; */
     border-radius: 5px;
     text-align: end;
-    width: 100px;
+    width: fit-content;
+    height: fit-content;
     display: none;
     /* row-gap: 7px; */
     /* padding: 20px; */
 }
 
 #acntPopup a{
-    width: 100px;
-    padding: 0px 14px;
+    width: 150px;
+    padding: 4px 14px;
+    font-size: larger;
 }
 
 #acntPopup a:hover{
@@ -322,7 +335,7 @@ body{
 }
 
 .carousel-item{
-    height: 500px;
+    height: 800px;
 }
 
 .c-item{
@@ -330,7 +343,7 @@ body{
     height: 100%;
     /* position: relative; */
     /* bottom: 50%; */
-    filter: brightness(0.6);
+    /* filter: brightness(0.6); */
 }
 
 .categories{
@@ -442,6 +455,11 @@ hr{
     border-radius: 5px;
     border: #01563F 1px solid;
     padding: 4px 0;
+}
+
+
+.cart-interface{
+    
 }
 
 

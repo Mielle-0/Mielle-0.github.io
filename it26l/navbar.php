@@ -43,24 +43,25 @@
                 ?>
                 
                 <div class="cartBtn">
-                  <a href=""><span class="material-symbols-outlined">shopping_cart</span></a>
+                  <a href="cart.php"><span class="material-symbols-outlined">shopping_cart</span></a>
                   <span class="cartCount">99+</span>
                 </div>
 
                 <div class="acntBtn">
+                  <span class="session-username" style="font-size:larger;"><?php echo $_SESSION["username"]; ?></span>
                   <span class="material-symbols-outlined">person</span>
 
                   <div id="acntPopup">
                     <a href="">Profile</a>
                     <a href="">Settings</a>
-                    <a href="">Logout</a>
+                    <a href="php_functions/logout_func.php">Logout</a>
                   </div>
                 </div>
                 <?php
                 }else {
                 ?>
 
-                <a href="login.php">Log In</a>
+                <a href="login.php" id="logWhite">Log In</a>
                 <a href="signup.php" class="highlight">Sign Up</a>
 
                 <?php

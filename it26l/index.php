@@ -71,21 +71,21 @@
               </div>
               <div class="carousel-inner">
                 <div class="carousel-item active">
-                  <img src="img/carousel-temp (1).jpg" class="c-item d-block w-100" alt="...">
+                  <img src="img/coffee_bread_promo.jpg" class="c-item d-block w-100" alt="...">
                   <div class="carousel-caption">
                     <h5>First slide label</h5>
                     <p>Some representative placeholder content for the first slide.</p>
                   </div>
                 </div>
                 <div class="carousel-item">
-                  <img src="img/carousel-temp (2).jpg" class="c-item d-block w-100" alt="...">
+                  <img src="img/meat_promo.jpg" class="c-item d-block w-100" alt="...">
                   <div class="carousel-caption">
                     <h5>Second slide label</h5>
                     <p>Some representative placeholder content for the second slide.</p>
                   </div>
                 </div>
                 <div class="carousel-item">
-                  <img src="img/carousel-temp (3).jpg" class="c-item d-block w-100" alt="...">
+                  <img src="img/fresh_produce_promo.jpg" class="c-item d-block w-100" alt="...">
                   <div class="carousel-caption">
                     <h5>Third slide label</h5>
                     <p>Some representative placeholder content for the third slide.</p>

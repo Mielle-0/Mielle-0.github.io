@@ -10,6 +10,11 @@
 
     <?php 
       session_start();
+
+      if (isset($_SESSION["u_id"])){
+        header("Location: ../it26l/");
+        exit();
+        }
     ?>
     
     <div class="container">
@@ -20,10 +25,11 @@
             <div class="signup">
                 <a href="index.php"><img src="img/1707387675660.png" alt="" width="70"></a>
                 <h2>Log In</h2>
-                <form action="" class="inputBox">
-                    <input type="text" name="Username" placeholder="Username" id="">
-                    <input type="password" name="Password" placeholder="Password" id="">
+                <form action="php_functions/login_func.php" method="GET" class="inputBox">
+                    <input type="text" name="username" placeholder="Username" id="">
+                    <input type="password" name="password" placeholder="Password" id="">
                     <input type="submit" value="Log In" id="btn">
+                    <span class="form-error email-err" id="login-error">Invalid Credentials. Try Again</span>
                 </form>
                 
                 <div class="group">

@@ -16,8 +16,7 @@
       if (isset($_SESSION["u_id"])){
         header("Location: ../it26l/");
         exit();
-        }else
-        echo "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
+        }
         
        
     ?>

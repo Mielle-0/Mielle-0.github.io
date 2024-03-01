@@ -11,18 +11,11 @@ if (isset($_SESSION["u_id"])){
 
 require 'connection.php';
 
-// setcookie("username", $_GET["username"], time()+3600, "/");
-// setcookie("email", $_GET["email"], time()+3600, "/");
-// setcookie("email", "", -1, "/"); //Remove Cookie
-
 if (isset($_SESSION["signup_error"]))
     unset($_SESSION["signup_error"]);
 
 $_SESSION["username"] = $_GET["username"];
 $_SESSION["email"] = $_GET["email"];
-
-
-
 
 try {
     
