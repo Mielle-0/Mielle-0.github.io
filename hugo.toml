@@ -1,6 +1,6 @@
 baseURL = 'https://Mielle-0.github.io/'
 languageCode = 'en-us'
-title = 'Laptop Price Tracker'
+title = 'Laptap Shop Price Tracker'
 
 [params]
   description = "Laptop price comparisons and hardware specs in Davao Stores."
