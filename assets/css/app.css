@@ -1,0 +1,114 @@
+/* Light Mode */
+:root {
+    --bg-color: #f0f2f5;
+    --container-bg: #ffffff;
+    --text-color: #1a1a1a;
+    --border-color: #dddddd;
+    --accent-color: #2ecc71;
+}
+/* Dark Mode */
+[data-theme="dark"] {
+    --bg-color: #121212;
+    --container-bg: #1e1e1e;
+    --text-color: #e0e0e0;
+    --border-color: #333333;
+    --accent-color: #27ae60;
+}
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: sans-serif;
+    transition: background 0.3s ease; /* Smooth fade between modes */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+}
+
+.container {
+    width: 100%;
+    max-width: 900px;
+    background: var(--container-bg);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+}
+
+th, td {
+    border-bottom: 1px solid var(--border-color);
+    padding: 12px;
+    text-align: left;
+}
+
+input#filterInput {
+    background: var(--container-bg);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#filterInput {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; /* Ensures padding doesn't affect width */
+}
+
+.theme-toggle {
+    cursor: pointer;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    border: 1px solid var(--border-color);
+    background: var(--container-bg);
+    color: var(--text-color);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.price-tag { color: #2ecc71; font-weight: bold; }
+
+
+/* Laptop Name Link */
+.laptop-link {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+.laptop-link:hover {
+    text-decoration: underline;
+}
+
+.pagination-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+    gap: 15px;
+}
+
+.pag-btn {
+    cursor: pointer;
+    padding: 8px 16px;
+}
+
+.pag-btn:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+}
+
+.laptop-link {
+    color: #3498db;
+    text-decoration: none;
+}
+
+.laptop-link:hover {
+    text-decoration: underline;
+}

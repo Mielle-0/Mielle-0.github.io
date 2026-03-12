@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laptop Price Tracker</title>
+    {{ $style := resources.Get "css/app.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+</head>
+<body>
+<button class="theme-toggle" onclick="toggleTheme()">🌓 Switch Mode</button>
+
+<div class="container">
+    <h1>Laptop Comparisons</h1>
+
+    <input type="text" id="filterInput" onkeyup="filterTable()" placeholder="Search for models, CPUs, or brands...">
+
+    <table id="laptopTable">
+        <thead>
+            <tr>
+                <th>Model</th>
+                <th>Processor</th>
+                <th>Memory</th>
+                <th>Drive</th>
+                <th>Features</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody">
+            {{ range .Site.Data.laptops.scraped }}
+            <tr class="laptop-row"> {{/* Added this class */}}
+                <td><a href="{{ .url }}" target="_blank" class="laptop-link">{{ .name }}</a></td>
+                <td>{{ .cpu }}</td>
+                <td>{{ .ram }}</td>
+                <td>{{ .storage }}</td>
+                <td>{{ .extra }}</td>
+                <td>₱{{ lang.FormatNumber 2 .price }}</td>
+            </tr>
+            {{ end }}
+        </tbody>
+    </table>
+    {{/* Pagination UI for JavaScript */}}
+    <div class="pagination-container">
+        <button id="prevBtn" class="pag-btn">« Previous</button>
+        <span id="pageIndicator"></span>
+        <button id="nextBtn" class="pag-btn">Next »</button>
+    </div>
+
+</div>
+
+{{ $js := resources.Get "js/main.js" | minify | fingerprint }}
+<script src="{{ $js.RelPermalink }}"></script>
+</body>
+</html>

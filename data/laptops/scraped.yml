@@ -1,0 +1,2440 @@
+- name: Acer Spin 5 SP513-53N 13.3"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 13900
+  url: https://www.laptap.com.ph/products/acer-spin-5-sp513-53n-13-3
+- name: Acer Swift SF114-32 14"
+  specs: ""
+  cpu: Pentium N5
+  ram: 4GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 5200
+  url: https://www.laptap.com.ph/products/acer-swift-sf114-32-14
+- name: Acer TravelMate Spin B311RN-31 11.6"
+  specs: ""
+  cpu: Pentium N5
+  ram: 4GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 4950
+  url: https://www.laptap.com.ph/products/acer-travelmate-spin-b311rn-31-11-6
+- name: Acer TravelMate Spin B311RN-31 11.6"
+  specs: ""
+  cpu: Pentium N5
+  ram: 4GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 5400
+  url: https://www.laptap.com.ph/products/acer-travelmate-spin-b311rn-31-11-6
+- name: Apple MacBook Air 10,1 A2337 13.3"
+  specs: ""
+  cpu: Apple-M1
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 27900
+  url: https://www.laptap.com.ph/products/apple-macbook-air-10-1-a2337-13-3
+- name: Apple MacBook Air 6,2 A1466 13.3"
+  specs: ""
+  cpu: i5-4
+  ram: 4GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 12200
+  url: https://www.laptap.com.ph/products/apple-macbook-air-6-2-a1466-13-3
+- name: Apple MacBook Air 6,2 A1466 13.3"
+  specs: ""
+  cpu: i5-4
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 11000
+  url: https://www.laptap.com.ph/products/apple-macbook-air-6-2-a1466-13-3
+- name: Apple MacBook Pro 13,2 A1706 13.3"
+  specs: ""
+  cpu: i5-6
+  ram: 16GB RAM
+  storage: 1TB SSD
+  extra: CAM
+  price: 25450
+  url: https://www.laptap.com.ph/products/apple-macbook-pro-13-2-a1706-13-3
+- name: Apple MacBook Pro 14,1 A1708 13.3"
+  specs: ""
+  cpu: i5-7
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 19750
+  url: https://www.laptap.com.ph/products/apple-macbook-pro-14-1-a1708-13-3
+- name: Apple MacBook Pro 14,2 A1706 13.3"
+  specs: ""
+  cpu: i5-7
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 22950
+  url: https://www.laptap.com.ph/products/apple-macbook-pro-14-2-a1706-13-3
+- name: Apple MacBook Pro 14,2 A1706 13.3"
+  specs: ""
+  cpu: i5-7
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 21350
+  url: https://www.laptap.com.ph/products/apple-macbook-pro-14-2-a1706-13-3
+- name: Apple MacBook Pro 14,3 A1707 15.4"
+  specs: ""
+  cpu: i7-7
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 29500
+  url: https://www.laptap.com.ph/products/apple-macbook-pro-14-3-a1707-15-4
+- name: Apple MacBook Pro 14,3 A1707 15.4"
+  specs: ""
+  cpu: i7-7
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 32650
+  url: https://www.laptap.com.ph/products/apple-macbook-pro-14-3-a1707-15-4
+- name: Apple MacBook Pro 15,1 A1990 15.4"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 1TB SSD
+  extra: CAM
+  price: 40100
+  url: https://www.laptap.com.ph/products/apple-macbook-pro-15-1-a1990-15-4
+- name: Apple MacBook Pro 15,1 A1990 15.4"
+  specs: ""
+  cpu: i7-9
+  ram: 16GB RAM
+  storage: 1TB SSD
+  extra: CAM
+  price: 42200
+  url: https://www.laptap.com.ph/products/apple-macbook-pro-15-1-a1990-15-4
+- name: Apple MacBook Pro 15,1 A1990 15.4"
+  specs: ""
+  cpu: i7-9
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 35850
+  url: https://www.laptap.com.ph/products/apple-macbook-pro-15-1-a1990-15-4
+- name: Apple MacBook Pro 16,1 A2141 16"
+  specs: ""
+  cpu: i7-9
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 38350
+  url: https://www.laptap.com.ph/products/apple-macbook-pro-16-1-a2141-16
+- name: Apple MacBook Pro 16,1 A2141 16"
+  specs: ""
+  cpu: i7-9
+  ram: 32GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 41300
+  url: https://www.laptap.com.ph/products/apple-macbook-pro-16-1-a2141-16
+- name: Apple MacBook Pro 17,1 A2338 13.3"
+  specs: ""
+  cpu: Apple-M1
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 34450
+  url: https://www.laptap.com.ph/products/apple-macbook-pro-17-1-a2338-13-3
+- name: Dell Latitude 3190 11.6"
+  specs: ""
+  cpu: Pentium N5
+  ram: 4GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 4750
+  url: https://www.laptap.com.ph/products/dell-latitude-3190-11-6
+- name: Dell Latitude 3190 11.6"
+  specs: ""
+  cpu: Pentium N5
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 6400
+  url: https://www.laptap.com.ph/products/dell-latitude-3190-11-6
+- name: Dell Latitude 3300 13.3"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 13900
+  url: https://www.laptap.com.ph/products/dell-latitude-3300-13-3
+- name: Dell Latitude 3390 13.3"
+  specs: ""
+  cpu: i5-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 16850
+  url: https://www.laptap.com.ph/products/dell-latitude-3390-13-3
+- name: Dell Latitude 3390 13.3"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 13900
+  url: https://www.laptap.com.ph/products/dell-latitude-3390-13-3
+- name: Dell Latitude 3400 14"
+  specs: ""
+  cpu: i3-8
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 12450
+  url: https://www.laptap.com.ph/products/dell-latitude-3400-14
+- name: Dell Latitude 3400 14"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 17800
+  url: https://www.laptap.com.ph/products/dell-latitude-3400-14
+- name: Dell Latitude 3440 14"
+  specs: ""
+  cpu: i3-12
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 18750
+  url: https://www.laptap.com.ph/products/dell-latitude-3440-14
+- name: Dell Latitude 3490 14"
+  specs: ""
+  cpu: i5-7
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 12450
+  url: https://www.laptap.com.ph/products/dell-latitude-3490-14
+- name: Dell Latitude 5280 12.5"
+  specs: ""
+  cpu: i5-7
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 12150
+  url: https://www.laptap.com.ph/products/dell-latitude-5280-12-5
+- name: Dell Latitude 5300 13.3"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 13900
+  url: https://www.laptap.com.ph/products/dell-latitude-5300-13-3
+- name: Dell Latitude 5300 13.3"
+  specs: ""
+  cpu: i5-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 16150
+  url: https://www.laptap.com.ph/products/dell-latitude-5300-13-3
+- name: Dell Latitude 5300 13.3"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 19600
+  url: https://www.laptap.com.ph/products/dell-latitude-5300-13-3
+- name: Dell Latitude 5310 13.3"
+  specs: ""
+  cpu: i5-10
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 19300
+  url: https://www.laptap.com.ph/products/dell-latitude-5310-13-3
+- name: Dell Latitude 5310 13.3"
+  specs: ""
+  cpu: i5-10
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 15900
+  url: https://www.laptap.com.ph/products/dell-latitude-5310-13-3
+- name: Dell Latitude 5320 13.3"
+  specs: ""
+  cpu: i5-11
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 21650
+  url: https://www.laptap.com.ph/products/dell-latitude-5320-13-3
+- name: Dell Latitude 5400 14"
+  specs: ""
+  cpu: i5-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 16250
+  url: https://www.laptap.com.ph/products/dell-latitude-5400-14
+- name: Dell Latitude 5400 14"
+  specs: ""
+  cpu: i5-8
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 18050
+  url: https://www.laptap.com.ph/products/dell-latitude-5400-14
+- name: Dell Latitude 5400 14"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 14050
+  url: https://www.laptap.com.ph/products/dell-latitude-5400-14
+- name: Dell Latitude 5400 14"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 19700
+  url: https://www.laptap.com.ph/products/dell-latitude-5400-14
+- name: Dell Latitude 5400 14"
+  specs: ""
+  cpu: i7-8
+  ram: 32GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 23350
+  url: https://www.laptap.com.ph/products/dell-latitude-5400-14
+- name: Dell Latitude 5400 14"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 15550
+  url: https://www.laptap.com.ph/products/dell-latitude-5400-14
+- name: Dell Latitude 5410 14"
+  specs: ""
+  cpu: i5-10
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 16750
+  url: https://www.laptap.com.ph/products/dell-latitude-5410-14
+- name: Dell Latitude 5411 14"
+  specs: ""
+  cpu: i7-10
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 25450
+  url: https://www.laptap.com.ph/products/dell-latitude-5411-14
+- name: Dell Latitude 5411 14"
+  specs: ""
+  cpu: i5-10
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 16750
+  url: https://www.laptap.com.ph/products/dell-latitude-5411-14
+- name: Dell Latitude 5420 14"
+  specs: ""
+  cpu: i5-11
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 18750
+  url: https://www.laptap.com.ph/products/dell-latitude-5420-14
+- name: Dell Latitude 5420 14"
+  specs: ""
+  cpu: i5-11
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 23550
+  url: https://www.laptap.com.ph/products/dell-latitude-5420-14
+- name: Dell Latitude 5424 Rugged 14"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 15250
+  url: https://www.laptap.com.ph/products/dell-latitude-5424-rugged-14
+- name: Dell Latitude 5480 14"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 10650
+  url: https://www.laptap.com.ph/products/dell-latitude-5480-14
+- name: Dell Latitude 5480 14"
+  specs: ""
+  cpu: i5-6
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 12350
+  url: https://www.laptap.com.ph/products/dell-latitude-5480-14
+- name: Dell Latitude 5480 14"
+  specs: ""
+  cpu: i5-6
+  ram: 4GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 8950
+  url: https://www.laptap.com.ph/products/dell-latitude-5480-14
+- name: Dell Latitude 5480 14"
+  specs: ""
+  cpu: i7-7
+  ram: 16GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 16650
+  url: https://www.laptap.com.ph/products/dell-latitude-5480-14
+- name: Dell Latitude 5480 14"
+  specs: ""
+  cpu: i7-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 13450
+  url: https://www.laptap.com.ph/products/dell-latitude-5480-14
+- name: Dell Latitude 5480 14"
+  specs: ""
+  cpu: i7-6
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 12650
+  url: https://www.laptap.com.ph/products/dell-latitude-5480-14
+- name: Dell Latitude 5490 14"
+  specs: ""
+  cpu: i5-7
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 12450
+  url: https://www.laptap.com.ph/products/dell-latitude-5490-14
+- name: Dell Latitude 5490 14"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 15550
+  url: https://www.laptap.com.ph/products/dell-latitude-5490-14
+- name: Dell Latitude 5500 15.6"
+  specs: ""
+  cpu: i5-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 16950
+  url: https://www.laptap.com.ph/products/dell-latitude-5500-15-6
+- name: Dell Latitude 5500 15.6"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 20450
+  url: https://www.laptap.com.ph/products/dell-latitude-5500-15-6
+- name: Dell Latitude 5510 15.6"
+  specs: ""
+  cpu: i5-10
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 20100
+  url: https://www.laptap.com.ph/products/dell-latitude-5510-15-6
+- name: Dell Latitude 5520 15.6"
+  specs: ""
+  cpu: i5-11
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 22400
+  url: https://www.laptap.com.ph/products/dell-latitude-5520-15-6
+- name: Dell Latitude 5580 15.6"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 11250
+  url: https://www.laptap.com.ph/products/dell-latitude-5580-15-6
+- name: Dell Latitude 5580 15.6"
+  specs: ""
+  cpu: i7-7
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 20200
+  url: https://www.laptap.com.ph/products/dell-latitude-5580-15-6
+- name: Dell Latitude 5590 15.6"
+  specs: ""
+  cpu: i5-7
+  ram: 8GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 14550
+  url: https://www.laptap.com.ph/products/dell-latitude-5590-15-6
+- name: Dell Latitude 5590 15.6"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 18900
+  url: https://www.laptap.com.ph/products/dell-latitude-5590-15-6
+- name: Dell Latitude 7280 12.5"
+  specs: ""
+  cpu: i5-7
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 11300
+  url: https://www.laptap.com.ph/products/dell-latitude-7280-12-5
+- name: Dell Latitude 7280 12.5"
+  specs: ""
+  cpu: i5-7
+  ram: 16GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 13100
+  url: https://www.laptap.com.ph/products/dell-latitude-7280-12-5
+- name: Dell Latitude 7280 12.5"
+  specs: ""
+  cpu: i7-6
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 15100
+  url: https://www.laptap.com.ph/products/dell-latitude-7280-12-5
+- name: Dell Latitude 7280 12.5"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 10250
+  url: https://www.laptap.com.ph/products/dell-latitude-7280-12-5
+- name: Dell Latitude 7280 12.5"
+  specs: ""
+  cpu: i5-7
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 13950
+  url: https://www.laptap.com.ph/products/dell-latitude-7280-12-5
+- name: Dell Latitude 7280 12.5"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 11800
+  url: https://www.laptap.com.ph/products/dell-latitude-7280-12-5
+- name: Dell Latitude 7310 13.3"
+  specs: ""
+  cpu: i5-10
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 19300
+  url: https://www.laptap.com.ph/products/dell-latitude-7310-13-3
+- name: Dell Latitude 7320 13.3"
+  specs: ""
+  cpu: i5-11
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 21650
+  url: https://www.laptap.com.ph/products/dell-latitude-7320-13-3
+- name: Dell Latitude 7400 14"
+  specs: ""
+  cpu: i5-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 16250
+  url: https://www.laptap.com.ph/products/dell-latitude-7400-14
+- name: Dell Latitude 7400 14"
+  specs: ""
+  cpu: i7-8
+  ram: 32GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 21250
+  url: https://www.laptap.com.ph/products/dell-latitude-7400-14
+- name: Dell Latitude 7400 14"
+  specs: ""
+  cpu: i7-8
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 17000
+  url: https://www.laptap.com.ph/products/dell-latitude-7400-14
+- name: Dell Latitude 7400 14"
+  specs: ""
+  cpu: i7-8
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 16200
+  url: https://www.laptap.com.ph/products/dell-latitude-7400-14
+- name: Dell Latitude 7400 14"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 21650
+  url: https://www.laptap.com.ph/products/dell-latitude-7400-14
+- name: Dell Latitude 7400 14"
+  specs: ""
+  cpu: i5-8
+  ram: 16GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 15400
+  url: https://www.laptap.com.ph/products/dell-latitude-7400-14
+- name: Dell Latitude 7400 14"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 13300
+  url: https://www.laptap.com.ph/products/dell-latitude-7400-14
+- name: Dell Latitude 7400 14"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 19700
+  url: https://www.laptap.com.ph/products/dell-latitude-7400-14
+- name: Dell Latitude 7410 14"
+  specs: ""
+  cpu: i5-10
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 19450
+  url: https://www.laptap.com.ph/products/dell-latitude-7410-14
+- name: Dell Latitude 7420 14"
+  specs: ""
+  cpu: i5-11
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 23550
+  url: https://www.laptap.com.ph/products/dell-latitude-7420-14
+- name: Dell Latitude 7420 14"
+  specs: ""
+  cpu: i7-11
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 28100
+  url: https://www.laptap.com.ph/products/dell-latitude-7420-14
+- name: Dell Latitude 7420 14"
+  specs: ""
+  cpu: i5-11
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 21750
+  url: https://www.laptap.com.ph/products/dell-latitude-7420-14
+- name: Dell Latitude 7430 14"
+  specs: ""
+  cpu: i7-12
+  ram: 32GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 31700
+  url: https://www.laptap.com.ph/products/dell-latitude-7430-14
+- name: Dell Latitude 7480 14"
+  specs: ""
+  cpu: i5-6
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 12350
+  url: https://www.laptap.com.ph/products/dell-latitude-7480-14
+- name: Dell Latitude 7480 14"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 10650
+  url: https://www.laptap.com.ph/products/dell-latitude-7480-14
+- name: Dell Latitude 7480 14"
+  specs: ""
+  cpu: i5-7
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 12450
+  url: https://www.laptap.com.ph/products/dell-latitude-7480-14
+- name: Dell Latitude 7480 14"
+  specs: ""
+  cpu: i7-6
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 15600
+  url: https://www.laptap.com.ph/products/dell-latitude-7480-14
+- name: Dell Latitude 7480 14"
+  specs: ""
+  cpu: i7-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 13450
+  url: https://www.laptap.com.ph/products/dell-latitude-7480-14
+- name: Dell Latitude 7490 14"
+  specs: ""
+  cpu: i5-7
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 12450
+  url: https://www.laptap.com.ph/products/dell-latitude-7490-14
+- name: Dell Latitude 7490 14"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 19700
+  url: https://www.laptap.com.ph/products/dell-latitude-7490-14
+- name: Dell Latitude 7490 14"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 14050
+  url: https://www.laptap.com.ph/products/dell-latitude-7490-14
+- name: Dell Latitude 7490 14"
+  specs: ""
+  cpu: i3-7
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 9900
+  url: https://www.laptap.com.ph/products/dell-latitude-7490-14
+- name: Dell Latitude E5440 14"
+  specs: ""
+  cpu: i5-4
+  ram: 8GB RAM
+  storage: 500GB HDD
+  extra: OD,  CAM
+  price: 6150
+  url: https://www.laptap.com.ph/products/dell-latitude-e5440-14
+- name: Dell Latitude E5450 14"
+  specs: ""
+  cpu: i5-5
+  ram: 4GB RAM
+  storage: 500GB HDD
+  extra: ""
+  price: 5800
+  url: https://www.laptap.com.ph/products/dell-latitude-e5450-14
+- name: Dell Latitude E5450 14"
+  specs: ""
+  cpu: i5-5
+  ram: 4GB RAM
+  storage: 500GB HDD
+  extra: CAM
+  price: 6000
+  url: https://www.laptap.com.ph/products/dell-latitude-e5450-14
+- name: Dell Latitude E5450 14"
+  specs: ""
+  cpu: i5-5
+  ram: 8GB RAM
+  storage: 500GB HDD
+  extra: CAM
+  price: 7150
+  url: https://www.laptap.com.ph/products/dell-latitude-e5450-14
+- name: Dell Latitude E5470 14"
+  specs: ""
+  cpu: i5-6
+  ram: 4GB RAM
+  storage: 500GB HDD
+  extra: CAM
+  price: 7300
+  url: https://www.laptap.com.ph/products/dell-latitude-e5470-14
+- name: Dell Latitude E5470 14"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 10650
+  url: https://www.laptap.com.ph/products/dell-latitude-e5470-14
+- name: Dell Latitude E5470 14"
+  specs: ""
+  cpu: i5-6
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 12350
+  url: https://www.laptap.com.ph/products/dell-latitude-e5470-14
+- name: Dell Latitude E6320 13.3"
+  specs: ""
+  cpu: i5-2
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: OD,  CAM
+  price: 6450
+  url: https://www.laptap.com.ph/products/dell-latitude-e6320-13-3
+- name: Dell Latitude E6420 14"
+  specs: ""
+  cpu: i5-2
+  ram: 4GB RAM
+  storage: 250GB HDD
+  extra: OD,  CAM
+  price: 5900
+  url: https://www.laptap.com.ph/products/dell-latitude-e6420-14
+- name: Dell Latitude E6420 14"
+  specs: ""
+  cpu: i7-2
+  ram: 8GB RAM
+  storage: 320GB HDD
+  extra: OD,  CAM
+  price: 5050
+  url: https://www.laptap.com.ph/products/dell-latitude-e6420-14
+- name: Dell Latitude E6420 14"
+  specs: ""
+  cpu: i5-2
+  ram: 4GB RAM
+  storage: 250GB HDD
+  extra: OD
+  price: 3100
+  url: https://www.laptap.com.ph/products/dell-latitude-e6420-14
+- name: Dell Latitude E6440 14"
+  specs: ""
+  cpu: i5-4
+  ram: 4GB RAM
+  storage: 500GB HDD
+  extra: OD,  CAM
+  price: 7600
+  url: https://www.laptap.com.ph/products/dell-latitude-e6440-14
+- name: Dell Latitude E6440 14"
+  specs: ""
+  cpu: i5-4
+  ram: 4GB RAM
+  storage: 320GB HDD
+  extra: OD,  CAM
+  price: 4800
+  url: https://www.laptap.com.ph/products/dell-latitude-e6440-14
+- name: Dell Latitude E6520 15.6"
+  specs: ""
+  cpu: i5-2
+  ram: 4GB RAM
+  storage: 500GB HDD
+  extra: OD
+  price: 4150
+  url: https://www.laptap.com.ph/products/dell-latitude-e6520-15-6
+- name: Dell Latitude E7240 12.5"
+  specs: ""
+  cpu: i5-4
+  ram: 4GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 5750
+  url: https://www.laptap.com.ph/products/dell-latitude-e7240-12-5
+- name: Dell Latitude E7240 12.5"
+  specs: ""
+  cpu: i7-4
+  ram: 4GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 7900
+  url: https://www.laptap.com.ph/products/dell-latitude-e7240-12-5
+- name: Dell Latitude E7240 12.5"
+  specs: ""
+  cpu: i5-4
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 7600
+  url: https://www.laptap.com.ph/products/dell-latitude-e7240-12-5
+- name: Dell Latitude E7250 12.5"
+  specs: ""
+  cpu: i5-5
+  ram: 4GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 7350
+  url: https://www.laptap.com.ph/products/dell-latitude-e7250-12-5
+- name: Dell Latitude E7250 12.5"
+  specs: ""
+  cpu: i5-5
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 8000
+  url: https://www.laptap.com.ph/products/dell-latitude-e7250-12-5
+- name: Dell Latitude E7270 12.5"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 9500
+  url: https://www.laptap.com.ph/products/dell-latitude-e7270-12-5
+- name: Dell Latitude E7270 12.5"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 10250
+  url: https://www.laptap.com.ph/products/dell-latitude-e7270-12-5
+- name: Dell Latitude E7440 14"
+  specs: ""
+  cpu: i7-4
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 11450
+  url: https://www.laptap.com.ph/products/dell-latitude-e7440-14
+- name: Dell Latitude E7450 14"
+  specs: ""
+  cpu: i5-5
+  ram: 4GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 7050
+  url: https://www.laptap.com.ph/products/dell-latitude-e7450-14
+- name: Dell Latitude E7450 14"
+  specs: ""
+  cpu: i5-5
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 10050
+  url: https://www.laptap.com.ph/products/dell-latitude-e7450-14
+- name: Dell Latitude E7470 14"
+  specs: ""
+  cpu: i7-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 13400
+  url: https://www.laptap.com.ph/products/dell-latitude-e7470-14
+- name: Dell Latitude E7470 14"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 10650
+  url: https://www.laptap.com.ph/products/dell-latitude-e7470-14
+- name: Dell Latitude E7470 14"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 9900
+  url: https://www.laptap.com.ph/products/dell-latitude-e7470-14
+- name: Dell Precision 3520 15.6"
+  specs: ""
+  cpu: i7-7
+  ram: 16GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 22600
+  url: https://www.laptap.com.ph/products/dell-precision-3520-15-6
+- name: Dell Precision 5520 15.6"
+  specs: ""
+  cpu: i7-7
+  ram: 32GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 27250
+  url: https://www.laptap.com.ph/products/dell-precision-5520-15-6
+- name: Dell Precision 5520 15.6"
+  specs: ""
+  cpu: i7-7
+  ram: 32GB RAM
+  storage: 1TB SSD
+  extra: CAM
+  price: 31050
+  url: https://www.laptap.com.ph/products/dell-precision-5520-15-6
+- name: Dell Precision 5520 15.6"
+  specs: ""
+  cpu: i7-7
+  ram: 32GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 25650
+  url: https://www.laptap.com.ph/products/dell-precision-5520-15-6
+- name: Dell Precision 5520 15.6"
+  specs: ""
+  cpu: i7-7
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 26300
+  url: https://www.laptap.com.ph/products/dell-precision-5520-15-6
+- name: Dell Precision 5540 15.6"
+  specs: ""
+  cpu: i7-9
+  ram: 32GB RAM
+  storage: 1TB SSD
+  extra: CAM
+  price: 35850
+  url: https://www.laptap.com.ph/products/dell-precision-5540-15-6
+- name: Dell Precision 5540 15.6"
+  specs: ""
+  cpu: i7-9
+  ram: 32GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 33150
+  url: https://www.laptap.com.ph/products/dell-precision-5540-15-6
+- name: Dell Precision 5560 15.6"
+  specs: ""
+  cpu: i7-11
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 37450
+  url: https://www.laptap.com.ph/products/dell-precision-5560-15-6
+- name: Dell Precision 5560 15.6"
+  specs: ""
+  cpu: i9-11
+  ram: 64GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 52200
+  url: https://www.laptap.com.ph/products/dell-precision-5560-15-6
+- name: Dell Precision 7750 17.3"
+  specs: ""
+  cpu: i5-10
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 27100
+  url: https://www.laptap.com.ph/products/dell-precision-7750-17-3
+- name: HP 250G4 Gen 5 15.6"
+  specs: ""
+  cpu: i5-5
+  ram: 8GB RAM
+  storage: 500GB HDD
+  extra: OD,  CAM
+  price: 7900
+  url: https://www.laptap.com.ph/products/hp-250g4-gen-5-15-6
+- name: HP EliteBook 820 G2 Gen 5 12.5"
+  specs: ""
+  cpu: i5-5
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 8000
+  url: https://www.laptap.com.ph/products/hp-elitebook-820-g2-gen-5-12-5
+- name: HP EliteBook 820 G2 Gen 5 12.5"
+  specs: ""
+  cpu: i5-5
+  ram: 4GB RAM
+  storage: 500GB HDD
+  extra: CAM
+  price: 5700
+  url: https://www.laptap.com.ph/products/hp-elitebook-820-g2-gen-5-12-5
+- name: HP EliteBook 820 G3 Gen 6 12.5"
+  specs: ""
+  cpu: i7-6
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 12200
+  url: https://www.laptap.com.ph/products/hp-elitebook-820-g3-gen-6-12-5
+- name: HP EliteBook 820 G3 Gen 6 12.5"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 10250
+  url: https://www.laptap.com.ph/products/hp-elitebook-820-g3-gen-6-12-5
+- name: HP EliteBook 820 G3 Gen 6 12.5"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 9500
+  url: https://www.laptap.com.ph/products/hp-elitebook-820-g3-gen-6-12-5
+- name: HP EliteBook 820G3 Gen 6 12.5"
+  specs: ""
+  cpu: i7-6
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 12200
+  url: https://www.laptap.com.ph/products/hp-elitebook-820g3-gen-6-12-5
+- name: HP EliteBook 820G3 Gen 6 12.5"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 9500
+  url: https://www.laptap.com.ph/products/hp-elitebook-820g3-gen-6-12-5
+- name: HP EliteBook 830 G5 Gen 8 13.3"
+  specs: ""
+  cpu: i5-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 16150
+  url: https://www.laptap.com.ph/products/hp-elitebook-830-g5-gen-8-13-3
+- name: HP EliteBook 830 G6 Gen 8 13.3"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 21500
+  url: https://www.laptap.com.ph/products/hp-elitebook-830-g6-gen-8-13-3
+- name: HP EliteBook 830 G6 Gen 8 13.3"
+  specs: ""
+  cpu: i5-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 16150
+  url: https://www.laptap.com.ph/products/hp-elitebook-830-g6-gen-8-13-3
+- name: HP EliteBook 830 G6 Gen 8 13.3"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 19600
+  url: https://www.laptap.com.ph/products/hp-elitebook-830-g6-gen-8-13-3
+- name: HP EliteBook 830 G7 13.3"
+  specs: ""
+  cpu: i7-10
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 23350
+  url: https://www.laptap.com.ph/products/hp-elitebook-830-g7-13-3
+- name: HP EliteBook 830 G7 Gen 10 13.3"
+  specs: ""
+  cpu: i7-10
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 23350
+  url: https://www.laptap.com.ph/products/hp-elitebook-830-g7-gen-10-13-3
+- name: HP EliteBook 830 G7 Gen 10 13.3"
+  specs: ""
+  cpu: i5-10
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 19300
+  url: https://www.laptap.com.ph/products/hp-elitebook-830-g7-gen-10-13-3
+- name: HP EliteBook 830 G7 Gen 10 13.3"
+  specs: ""
+  cpu: i7-10
+  ram: 8GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 21800
+  url: https://www.laptap.com.ph/products/hp-elitebook-830-g7-gen-10-13-3
+- name: HP EliteBook 830 G7 Gen 10 13.3"
+  specs: ""
+  cpu: i7-10
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 25300
+  url: https://www.laptap.com.ph/products/hp-elitebook-830-g7-gen-10-13-3
+- name: HP EliteBook 830 G7 Gen 10 13.3"
+  specs: ""
+  cpu: i7-10
+  ram: 32GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 27250
+  url: https://www.laptap.com.ph/products/hp-elitebook-830-g7-gen-10-13-3
+- name: HP EliteBook 830 G7 Gen 10 13.3"
+  specs: ""
+  cpu: i5-10
+  ram: 16GB RAM
+  storage: 1TB SSD
+  extra: CAM
+  price: 22900
+  url: https://www.laptap.com.ph/products/hp-elitebook-830-g7-gen-10-13-3
+- name: HP EliteBook 830 G8 Gen 11 13.3"
+  specs: ""
+  cpu: i7-11
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 27950
+  url: https://www.laptap.com.ph/products/hp-elitebook-830-g8-gen-11-13-3
+- name: HP EliteBook 830 G8 Gen 11 13.3"
+  specs: ""
+  cpu: i5-11
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 21650
+  url: https://www.laptap.com.ph/products/hp-elitebook-830-g8-gen-11-13-3
+- name: HP EliteBook 835 G7 13.3"
+  specs: ""
+  cpu: AMD-Ryzen 7-4 Pro
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 19600
+  url: https://www.laptap.com.ph/products/hp-elitebook-835-g7-13-3
+- name: HP EliteBook 835 G7 13.3"
+  specs: ""
+  cpu: AMD-Ryzen 7-4 Pro
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 21500
+  url: https://www.laptap.com.ph/products/hp-elitebook-835-g7-13-3
+- name: HP EliteBook 840 Aero G8 13.3"
+  specs: ""
+  cpu: i5-11
+  ram: 32GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 32650
+  url: https://www.laptap.com.ph/products/hp-elitebook-840-aero-g8-13-3
+- name: HP EliteBook 840 G3 Gen 6 14"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 10650
+  url: https://www.laptap.com.ph/products/hp-elitebook-840-g3-gen-6-14
+- name: HP EliteBook 840 G3 Gen 6 14"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 9900
+  url: https://www.laptap.com.ph/products/hp-elitebook-840-g3-gen-6-14
+- name: HP EliteBook 840 G3 Gen 6 14"
+  specs: ""
+  cpu: i5-6
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 12350
+  url: https://www.laptap.com.ph/products/hp-elitebook-840-g3-gen-6-14
+- name: HP EliteBook 840 G5 Gen 7 14"
+  specs: ""
+  cpu: i5-7
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 14400
+  url: https://www.laptap.com.ph/products/hp-elitebook-840-g5-gen-7-14
+- name: HP EliteBook 840 G5 Gen 8 14"
+  specs: ""
+  cpu: i5-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 16250
+  url: https://www.laptap.com.ph/products/hp-elitebook-840-g5-gen-8-14
+- name: HP EliteBook 840 G6 Gen 8 14"
+  specs: ""
+  cpu: i5-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 16250
+  url: https://www.laptap.com.ph/products/hp-elitebook-840-g6-gen-8-14
+- name: HP EliteBook 840 G6 Gen 8 14"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 14050
+  url: https://www.laptap.com.ph/products/hp-elitebook-840-g6-gen-8-14
+- name: HP EliteBook 840 G6 Gen 8 14"
+  specs: ""
+  cpu: i5-8
+  ram: 32GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 17550
+  url: https://www.laptap.com.ph/products/hp-elitebook-840-g6-gen-8-14
+- name: HP EliteBook 840 G7 Gen 10 14"
+  specs: ""
+  cpu: i5-10
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 19450
+  url: https://www.laptap.com.ph/products/hp-elitebook-840-g7-gen-10-14
+- name: HP EliteBook 840 G7 Gen 10 14"
+  specs: ""
+  cpu: i5-10
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 21250
+  url: https://www.laptap.com.ph/products/hp-elitebook-840-g7-gen-10-14
+- name: HP EliteBook 840 G8 Gen 11 14"
+  specs: ""
+  cpu: i5-11
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 20700
+  url: https://www.laptap.com.ph/products/hp-elitebook-840-g8-gen-11-14
+- name: HP EliteBook 840 G8 Gen 11 14"
+  specs: ""
+  cpu: i7-11
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 28100
+  url: https://www.laptap.com.ph/products/hp-elitebook-840-g8-gen-11-14
+- name: HP EliteBook 840G1 Gen 4 14"
+  specs: ""
+  cpu: i5-4
+  ram: 4GB RAM
+  storage: 500GB HDD
+  extra: CAM
+  price: 5050
+  url: https://www.laptap.com.ph/products/hp-elitebook-840g1-gen-4-14
+- name: HP EliteBook 840G1 Gen 4 14"
+  specs: ""
+  cpu: i5-4
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 8750
+  url: https://www.laptap.com.ph/products/hp-elitebook-840g1-gen-4-14
+- name: HP EliteBook 840G2 Gen 5 14"
+  specs: ""
+  cpu: i5-5
+  ram: 4GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 7050
+  url: https://www.laptap.com.ph/products/hp-elitebook-840g2-gen-5-14
+- name: HP EliteBook 840G3 Gen 6 14"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 10650
+  url: https://www.laptap.com.ph/products/hp-elitebook-840g3-gen-6-14
+- name: HP EliteBook 840G3 Gen 6 14"
+  specs: ""
+  cpu: i7-6
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 15600
+  url: https://www.laptap.com.ph/products/hp-elitebook-840g3-gen-6-14
+- name: HP EliteBook 840G5 Gen 7 14"
+  specs: ""
+  cpu: i5-7
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 12450
+  url: https://www.laptap.com.ph/products/hp-elitebook-840g5-gen-7-14
+- name: HP EliteBook 840G5 Gen 7 14"
+  specs: ""
+  cpu: i5-7
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 14400
+  url: https://www.laptap.com.ph/products/hp-elitebook-840g5-gen-7-14
+- name: HP EliteBook 840G5 Gen 7 14"
+  specs: ""
+  cpu: i5-7
+  ram: 16GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 13550
+  url: https://www.laptap.com.ph/products/hp-elitebook-840g5-gen-7-14
+- name: HP EliteBook 840G6 Gen 8 14"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 19700
+  url: https://www.laptap.com.ph/products/hp-elitebook-840g6-gen-8-14
+- name: HP EliteBook 840G6 Gen 8 14"
+  specs: ""
+  cpu: i5-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 16250
+  url: https://www.laptap.com.ph/products/hp-elitebook-840g6-gen-8-14
+- name: HP EliteBook 840G6 Gen 8 14"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 14050
+  url: https://www.laptap.com.ph/products/hp-elitebook-840g6-gen-8-14
+- name: HP EliteBook 8440p 14"
+  specs: ""
+  cpu: i7-1
+  ram: 4GB RAM
+  storage: 320GB HDD
+  extra: OD,  CAM
+  price: 3800
+  url: https://www.laptap.com.ph/products/hp-elitebook-8440p-14
+- name: HP EliteBook 850 G3 Gen 6 15.6"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 11250
+  url: https://www.laptap.com.ph/products/hp-elitebook-850-g3-gen-6-15-6
+- name: HP EliteBook 850 G3 Gen 6 15.6"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 10500
+  url: https://www.laptap.com.ph/products/hp-elitebook-850-g3-gen-6-15-6
+- name: HP EliteBook 850 G5 Gen 7 15.6"
+  specs: ""
+  cpu: i5-7
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 13650
+  url: https://www.laptap.com.ph/products/hp-elitebook-850-g5-gen-7-15-6
+- name: HP EliteBook 850 G5 Gen 8 15.6"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 1TB SSD
+  extra: CAM
+  price: 24300
+  url: https://www.laptap.com.ph/products/hp-elitebook-850-g5-gen-8-15-6
+- name: HP EliteBook 850 G5 Gen 8 15.6"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 14600
+  url: https://www.laptap.com.ph/products/hp-elitebook-850-g5-gen-8-15-6
+- name: HP EliteBook 850 G7 Gen 10 15.6"
+  specs: ""
+  cpu: i5-10
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 20100
+  url: https://www.laptap.com.ph/products/hp-elitebook-850-g7-gen-10-15-6
+- name: HP EliteBook 850 G7 Gen 10 15.6"
+  specs: ""
+  cpu: i5-10
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 17350
+  url: https://www.laptap.com.ph/products/hp-elitebook-850-g7-gen-10-15-6
+- name: HP EliteBook 850 G7 Gen 10 15.6"
+  specs: ""
+  cpu: i7-10
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 24200
+  url: https://www.laptap.com.ph/products/hp-elitebook-850-g7-gen-10-15-6
+- name: HP EliteBook 850 G8 Gen 11 15.6"
+  specs: ""
+  cpu: i5-11
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 22400
+  url: https://www.laptap.com.ph/products/hp-elitebook-850-g8-gen-11-15-6
+- name: HP EliteBook Folio 1040G3 Gen 6 14"
+  specs: ""
+  cpu: i7-6
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 12650
+  url: https://www.laptap.com.ph/products/hp-elitebook-folio-1040g3-gen-6-14
+- name: HP EliteBook Folio 1040G3 Gen 6 14"
+  specs: ""
+  cpu: i7-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 13400
+  url: https://www.laptap.com.ph/products/hp-elitebook-folio-1040g3-gen-6-14
+- name: HP EliteBook MT42 14"
+  specs: ""
+  cpu: AMD-A8-8 Pro
+  ram: 4GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 6100
+  url: https://www.laptap.com.ph/products/hp-elitebook-mt42-14
+- name: HP EliteBook MT44 14"
+  specs: ""
+  cpu: AMD-Ryzen 3-2 Pro
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 8150
+  url: https://www.laptap.com.ph/products/hp-elitebook-mt44-14
+- name: HP EliteBook MT44 14"
+  specs: ""
+  cpu: AMD-Ryzen 3-2 Pro
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 7250
+  url: https://www.laptap.com.ph/products/hp-elitebook-mt44-14
+- name: HP EliteBook x360 1030 G3 Gen 8 13.3"
+  specs: ""
+  cpu: i5-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 16150
+  url: https://www.laptap.com.ph/products/hp-elitebook-x360-1030-g3-gen-8-13-3
+- name: HP EliteBook x360 1030 G4 Gen 8 13.3"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 14400
+  url: https://www.laptap.com.ph/products/hp-elitebook-x360-1030-g4-gen-8-13-3
+- name: HP EliteBook x360 1030 G4 Gen 8 13.3"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 21500
+  url: https://www.laptap.com.ph/products/hp-elitebook-x360-1030-g4-gen-8-13-3
+- name: HP EliteBook x360 1030 G4 Gen 8 13.3"
+  specs: ""
+  cpu: i5-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 16150
+  url: https://www.laptap.com.ph/products/hp-elitebook-x360-1030-g4-gen-8-13-3
+- name: HP EliteBook x360 1030 G8 Gen 11 13.3"
+  specs: ""
+  cpu: i5-11
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 18650
+  url: https://www.laptap.com.ph/products/hp-elitebook-x360-1030-g8-gen-11-13-3
+- name: HP EliteBook x360 1030G3 Gen 8 13.3"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 21500
+  url: https://www.laptap.com.ph/products/hp-elitebook-x360-1030g3-gen-8-13-3
+- name: HP EliteBook x360 1040 G9 Gen 12 14"
+  specs: ""
+  cpu: i5-12
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 24200
+  url: https://www.laptap.com.ph/products/hp-elitebook-x360-1040-g9-gen-12-14
+- name: HP EliteBook x360 1040 G9 Gen 12 14"
+  specs: ""
+  cpu: i7-12
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 29450
+  url: https://www.laptap.com.ph/products/hp-elitebook-x360-1040-g9-gen-12-14
+- name: HP EliteBook x360 830 G6 Gen 8 13.3"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 19600
+  url: https://www.laptap.com.ph/products/hp-elitebook-x360-830-g6-gen-8-13-3
+- name: HP EliteBook x360 830 G6 Gen 8 13.3"
+  specs: ""
+  cpu: i5-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 16150
+  url: https://www.laptap.com.ph/products/hp-elitebook-x360-830-g6-gen-8-13-3
+- name: HP EliteBook x360 830 G7 Gen 10 13.3"
+  specs: ""
+  cpu: i5-10
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 19300
+  url: https://www.laptap.com.ph/products/hp-elitebook-x360-830-g7-gen-10-13-3
+- name: HP EliteBook x360 830 G9 Gen 12 13.3"
+  specs: ""
+  cpu: i5-12
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 24100
+  url: https://www.laptap.com.ph/products/hp-elitebook-x360-830-g9-gen-12-13-3
+- name: HP EliteBook x360 830G7 Gen 10 13.3"
+  specs: ""
+  cpu: i5-10
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 16650
+  url: https://www.laptap.com.ph/products/hp-elitebook-x360-830g7-gen-10-13-3
+- name: HP Laptop 14s-DQ3024TU 14"
+  specs: ""
+  cpu: Pentium N6
+  ram: 4GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 6100
+  url: https://www.laptap.com.ph/products/hp-laptop-14s-dq3024tu-14
+- name: HP Pavilion 15-CS2054TX 15.6"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 23500
+  url: https://www.laptap.com.ph/products/hp-pavilion-15-cs2054tx-15-6
+- name: HP Pro c640 Chromebook 14"
+  specs: ""
+  cpu: i5-10
+  ram: 8GB RAM
+  storage: 64GB eMMc
+  extra: CAM
+  price: 6850
+  url: https://www.laptap.com.ph/products/hp-pro-c640-chromebook-14
+- name: HP Pro c640 Chromebook 14"
+  specs: ""
+  cpu: i5-10
+  ram: 8GB RAM
+  storage: 64GB eMMc
+  extra: ""
+  price: 8000
+  url: https://www.laptap.com.ph/products/hp-pro-c640-chromebook-14
+- name: HP ProBook 11 G2 EE Gen 6 11.6"
+  specs: ""
+  cpu: i3-6
+  ram: 4GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 6300
+  url: https://www.laptap.com.ph/products/hp-probook-11-g2-ee-gen-6-11-6
+- name: HP ProBook 11 G2 Gen 6 11.6"
+  specs: ""
+  cpu: i3-6
+  ram: 4GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 6300
+  url: https://www.laptap.com.ph/products/hp-probook-11-g2-gen-6-11-6
+- name: HP ProBook 11G1 Gen 5 11.6"
+  specs: ""
+  cpu: i3-5
+  ram: 4GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 5350
+  url: https://www.laptap.com.ph/products/hp-probook-11g1-gen-5-11-6
+- name: HP ProBook 430 G2 Gen 4 13.3"
+  specs: ""
+  cpu: i3-4
+  ram: 4GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 5450
+  url: https://www.laptap.com.ph/products/hp-probook-430-g2-gen-4-13-3
+- name: HP ProBook 430 G3 Gen 6 13.3"
+  specs: ""
+  cpu: i3-6
+  ram: 4GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 6600
+  url: https://www.laptap.com.ph/products/hp-probook-430-g3-gen-6-13-3
+- name: HP ProBook 430 G3 Gen 6 13.3"
+  specs: ""
+  cpu: i3-6
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 7850
+  url: https://www.laptap.com.ph/products/hp-probook-430-g3-gen-6-13-3
+- name: HP ProBook 430 G3 Gen 6 13.3"
+  specs: ""
+  cpu: i3-6
+  ram: 4GB RAM
+  storage: 500GB HDD
+  extra: CAM
+  price: 5650
+  url: https://www.laptap.com.ph/products/hp-probook-430-g3-gen-6-13-3
+- name: HP ProBook 430 G4 Gen 7 13.3"
+  specs: ""
+  cpu: i3-7
+  ram: 8GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 11500
+  url: https://www.laptap.com.ph/products/hp-probook-430-g4-gen-7-13-3
+- name: HP ProBook 430 G4 Gen 7 13.3"
+  specs: ""
+  cpu: i3-7
+  ram: 4GB RAM
+  storage: 500GB HDD
+  extra: CAM
+  price: 6850
+  url: https://www.laptap.com.ph/products/hp-probook-430-g4-gen-7-13-3
+- name: HP ProBook 430 G6 Gen 8 13.3"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 13200
+  url: https://www.laptap.com.ph/products/hp-probook-430-g6-gen-8-13-3
+- name: HP ProBook 430G4 Gen 7 13.3"
+  specs: ""
+  cpu: i5-7
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 13550
+  url: https://www.laptap.com.ph/products/hp-probook-430g4-gen-7-13-3
+- name: HP ProBook 430G4 Gen 7 13.3"
+  specs: ""
+  cpu: i3-7
+  ram: 4GB RAM
+  storage: 500GB HDD
+  extra: CAM
+  price: 6850
+  url: https://www.laptap.com.ph/products/hp-probook-430g4-gen-7-13-3
+- name: HP ProBook 430G4 Gen 7 13.3"
+  specs: ""
+  cpu: i3-7
+  ram: 4GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 7800
+  url: https://www.laptap.com.ph/products/hp-probook-430g4-gen-7-13-3
+- name: HP ProBook 440 G7 Gen 10 14"
+  specs: ""
+  cpu: i5-10
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 15200
+  url: https://www.laptap.com.ph/products/hp-probook-440-g7-gen-10-14
+- name: HP ProBook 440 G8 Gen 11 14"
+  specs: ""
+  cpu: i7-11
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 26650
+  url: https://www.laptap.com.ph/products/hp-probook-440-g8-gen-11-14
+- name: HP ProBook 440 G8 Gen 11 14"
+  specs: ""
+  cpu: i5-11
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 20650
+  url: https://www.laptap.com.ph/products/hp-probook-440-g8-gen-11-14
+- name: HP ProBook 440 G9 Gen 12 14"
+  specs: ""
+  cpu: i7-12
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 27950
+  url: https://www.laptap.com.ph/products/hp-probook-440-g9-gen-12-14
+- name: HP ProBook 440 G9 Gen 12 14"
+  specs: ""
+  cpu: i5-12
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 23000
+  url: https://www.laptap.com.ph/products/hp-probook-440-g9-gen-12-14
+- name: HP ProBook 450 G8 Gen 11 15.6"
+  specs: ""
+  cpu: i5-11
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 21300
+  url: https://www.laptap.com.ph/products/hp-probook-450-g8-gen-11-15-6
+- name: HP ProBook 470 G5 Gen 8 17.3"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 14450
+  url: https://www.laptap.com.ph/products/hp-probook-470-g5-gen-8-17-3
+- name: HP ProBook 6450b 14"
+  specs: ""
+  cpu: i5-1
+  ram: 4GB RAM
+  storage: 320GB HDD
+  extra: OD,  CAM
+  price: 2900
+  url: https://www.laptap.com.ph/products/hp-probook-6450b-14
+- name: HP ProBook 650 G2 Gen 6 15.6"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 500GB HDD
+  extra: OD,  CAM
+  price: 8950
+  url: https://www.laptap.com.ph/products/hp-probook-650-g2-gen-6-15-6
+- name: HP ProBook 650 G2 Gen 6 15.6"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 10650
+  url: https://www.laptap.com.ph/products/hp-probook-650-g2-gen-6-15-6
+- name: HP ProBook 650 G5 Gen 8 15.6"
+  specs: ""
+  cpu: i5-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: OD,  CAM
+  price: 16250
+  url: https://www.laptap.com.ph/products/hp-probook-650-g5-gen-8-15-6
+- name: HP ProBook 650 G5 Gen 8 15.6"
+  specs: ""
+  cpu: i5-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 16100
+  url: https://www.laptap.com.ph/products/hp-probook-650-g5-gen-8-15-6
+- name: HP ProBook 650 G5 Gen 8 15.6"
+  specs: ""
+  cpu: i7-8
+  ram: 32GB RAM
+  storage: 1TB SSD
+  extra: OD,  CAM
+  price: 25050
+  url: https://www.laptap.com.ph/products/hp-probook-650-g5-gen-8-15-6
+- name: HP ProBook 650G2 Gen 6 15.6"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: OD,  CAM
+  price: 10800
+  url: https://www.laptap.com.ph/products/hp-probook-650g2-gen-6-15-6
+- name: HP ProBook 650G2 Gen 6 15.6"
+  specs: ""
+  cpu: i7-6
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: OD,  CAM
+  price: 15400
+  url: https://www.laptap.com.ph/products/hp-probook-650g2-gen-6-15-6
+- name: HP ProBook 650G4 Gen 8 15.6"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 21250
+  url: https://www.laptap.com.ph/products/hp-probook-650g4-gen-8-15-6
+- name: HP ProBook 650G5 Gen 8 15.6"
+  specs: ""
+  cpu: i5-8
+  ram: 32GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 17350
+  url: https://www.laptap.com.ph/products/hp-probook-650g5-gen-8-15-6
+- name: HP ProBook 6570b 15.6"
+  specs: ""
+  cpu: i7-3
+  ram: 4GB RAM
+  storage: 500GB HDD
+  extra: OD,  CAM
+  price: 5800
+  url: https://www.laptap.com.ph/products/hp-probook-6570b-15-6
+- name: HP ProBook x360 11 G4 EE 11.6"
+  specs: ""
+  cpu: M3-8Y
+  ram: 4GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 4500
+  url: https://www.laptap.com.ph/products/hp-probook-x360-11-g4-ee-11-6
+- name: HP ZBook 14 14"
+  specs: ""
+  cpu: i7-4
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 14900
+  url: https://www.laptap.com.ph/products/hp-zbook-14-14
+- name: HP ZBook 14u G6 Gen 8 14"
+  specs: ""
+  cpu: i5-8
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 23500
+  url: https://www.laptap.com.ph/products/hp-zbook-14u-g6-gen-8-14
+- name: HP ZBook 15 G3 Gen 6 15.6"
+  specs: ""
+  cpu: i7-6
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 21200
+  url: https://www.laptap.com.ph/products/hp-zbook-15-g3-gen-6-15-6
+- name: HP ZBook 15 G5 Gen 8 15.6"
+  specs: ""
+  cpu: i7-8
+  ram: 32GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 31350
+  url: https://www.laptap.com.ph/products/hp-zbook-15-g5-gen-8-15-6
+- name: HP ZBook 15 G5 Gen 8 15.6"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 24550
+  url: https://www.laptap.com.ph/products/hp-zbook-15-g5-gen-8-15-6
+- name: HP ZBook 15 G6 Gen 9 15.6"
+  specs: ""
+  cpu: i7-9
+  ram: 32GB RAM
+  storage: 1TB SSD
+  extra: CAM
+  price: 35850
+  url: https://www.laptap.com.ph/products/hp-zbook-15-g6-gen-9-15-6
+- name: HP ZBook 17 G6 Gen 9 17"
+  specs: ""
+  cpu: i5-9
+  ram: 8GB RAM
+  storage: 500GB HDD
+  extra: CAM
+  price: 19500
+  url: https://www.laptap.com.ph/products/hp-zbook-17-g6-gen-9-17
+- name: HP ZBook Create G7 Gen 10 15.6"
+  specs: ""
+  cpu: i7-10
+  ram: 32GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 36650
+  url: https://www.laptap.com.ph/products/hp-zbook-create-g7-gen-10-15-6
+- name: HP ZBook Firefly 14 G7 Gen 10 14"
+  specs: ""
+  cpu: i7-10
+  ram: 32GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 35650
+  url: https://www.laptap.com.ph/products/hp-zbook-firefly-14-g7-gen-10-14
+- name: HP ZBook Firefly 14 G7 Gen 10 14"
+  specs: ""
+  cpu: i5-10
+  ram: 8GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 23800
+  url: https://www.laptap.com.ph/products/hp-zbook-firefly-14-g7-gen-10-14
+- name: HP ZBook Fury 15G7 Gen 10 15.6"
+  specs: ""
+  cpu: i7-10
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 36350
+  url: https://www.laptap.com.ph/products/hp-zbook-fury-15g7-gen-10-15-6
+- name: HP ZBook Studio G4 Gen 7 15.6"
+  specs: ""
+  cpu: i7-7
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 20500
+  url: https://www.laptap.com.ph/products/hp-zbook-studio-g4-gen-7-15-6
+- name: HP ZBook Studio G5 Gen 8 15.6"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 29100
+  url: https://www.laptap.com.ph/products/hp-zbook-studio-g5-gen-8-15-6
+- name: HP ZBook Studio G5 Gen 9 15.6"
+  specs: ""
+  cpu: i7-9
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 30750
+  url: https://www.laptap.com.ph/products/hp-zbook-studio-g5-gen-9-15-6
+- name: HP ZBook Studio G7 Gen 10 15.6"
+  specs: ""
+  cpu: i7-10
+  ram: 32GB RAM
+  storage: 1TB SSD
+  extra: CAM
+  price: 39350
+  url: https://www.laptap.com.ph/products/hp-zbook-studio-g7-gen-10-15-6
+- name: Lenovo ThinkPad L13 Yoga 13.3"
+  specs: ""
+  cpu: i5-10
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 19150
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-l13-yoga-13-3
+- name: Lenovo ThinkPad L390 13.3"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 13900
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-l390-13-3
+- name: Lenovo ThinkPad L390 13.3"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 13950
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-l390-13-3
+- name: Lenovo ThinkPad L490 14"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 14050
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-l490-14
+- name: Lenovo ThinkPad L560 15.6"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: OD,  CAM
+  price: 11850
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-l560-15-6
+- name: Lenovo ThinkPad L560 15.6"
+  specs: ""
+  cpu: i3-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: OD,  CAM
+  price: 10050
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-l560-15-6
+- name: Lenovo ThinkPad L560 15.6"
+  specs: ""
+  cpu: i5-6
+  ram: 4GB RAM
+  storage: 128GB SSD
+  extra: OD,  CAM
+  price: 8950
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-l560-15-6
+- name: Lenovo ThinkPad P14s 14"
+  specs: ""
+  cpu: AMD-Ryzen 5-5 Pro
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 18250
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-p14s-14
+- name: Lenovo ThinkPad P14s 14"
+  specs: ""
+  cpu: i7-11
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 28100
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-p14s-14
+- name: Lenovo ThinkPad T14 14"
+  specs: ""
+  cpu: i7-10
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 23500
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t14-14
+- name: Lenovo ThinkPad T14s 14"
+  specs: ""
+  cpu: AMD-Ryzen 5-4 Pro
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 16250
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t14s-14
+- name: Lenovo ThinkPad T14s 14"
+  specs: ""
+  cpu: i5-11
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 21750
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t14s-14
+- name: Lenovo ThinkPad T14s Gen 2 14"
+  specs: ""
+  cpu: i7-11
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 26150
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t14s-gen-2-14
+- name: Lenovo ThinkPad T430 14"
+  specs: ""
+  cpu: i7-3
+  ram: 8GB RAM
+  storage: 180GB SSD
+  extra: OD,  CAM
+  price: 8400
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t430-14
+- name: Lenovo ThinkPad T430 14"
+  specs: ""
+  cpu: i5-3
+  ram: 4GB RAM
+  storage: 320GB HDD
+  extra: OD,  CAM
+  price: 5600
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t430-14
+- name: Lenovo ThinkPad T430 14"
+  specs: ""
+  cpu: i5-3
+  ram: 8GB RAM
+  storage: 180GB SSD
+  extra: OD,  CAM
+  price: 6700
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t430-14
+- name: Lenovo ThinkPad T440p 14"
+  specs: ""
+  cpu: i5-4
+  ram: 4GB RAM
+  storage: 500GB HDD
+  extra: OD,  CAM
+  price: 5200
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t440p-14
+- name: Lenovo ThinkPad T440p 14"
+  specs: ""
+  cpu: i5-4
+  ram: 4GB RAM
+  storage: 500GB HDD
+  extra: CAM
+  price: 6500
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t440p-14
+- name: Lenovo ThinkPad T440s 14"
+  specs: ""
+  cpu: i7-4
+  ram: 4GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 7600
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t440s-14
+- name: Lenovo ThinkPad T450 14"
+  specs: ""
+  cpu: i5-5
+  ram: 4GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 7050
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t450-14
+- name: Lenovo ThinkPad T450 14"
+  specs: ""
+  cpu: i5-5
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 9600
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t450-14
+- name: Lenovo ThinkPad T450s 14"
+  specs: ""
+  cpu: i5-5
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 8400
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t450s-14
+- name: Lenovo ThinkPad T460 14"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 10650
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t460-14
+- name: Lenovo ThinkPad T470s 14"
+  specs: ""
+  cpu: i5-7
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 11700
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t470s-14
+- name: Lenovo ThinkPad T470s 14"
+  specs: ""
+  cpu: i5-6
+  ram: 20GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 14450
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t470s-14
+- name: Lenovo ThinkPad T470s 14"
+  specs: ""
+  cpu: i5-7
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 12450
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t470s-14
+- name: Lenovo ThinkPad T470s 14"
+  specs: ""
+  cpu: i7-6
+  ram: 20GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 17850
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t470s-14
+- name: Lenovo ThinkPad T470s 14"
+  specs: ""
+  cpu: i7-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 13450
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t470s-14
+- name: Lenovo ThinkPad T480 14"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 14050
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t480-14
+- name: Lenovo ThinkPad T490 14"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 19700
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-t490-14
+- name: Lenovo ThinkPad X1 Carbon 14"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 10650
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-x1-carbon-14
+- name: Lenovo ThinkPad X1 Carbon 14"
+  specs: ""
+  cpu: i5-8
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 14050
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-x1-carbon-14
+- name: Lenovo ThinkPad X1 Carbon 14"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 9900
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-x1-carbon-14
+- name: Lenovo ThinkPad X1 Yoga 14"
+  specs: ""
+  cpu: i5-7
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 14300
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-x1-yoga-14
+- name: Lenovo ThinkPad X1 Yoga 14"
+  specs: ""
+  cpu: i7-7
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 17450
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-x1-yoga-14
+- name: Lenovo ThinkPad X1 Yoga 14"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 24900
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-x1-yoga-14
+- name: Lenovo ThinkPad X13 Yoga 13.3"
+  specs: ""
+  cpu: i5-10
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 22200
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-x13-yoga-13-3
+- name: Lenovo ThinkPad X260 12.5"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 11150
+  url: https://www.laptap.com.ph/products/lenovo-thinkpad-x260-12-5
+- name: Microsoft Surface Book 2 13.5"
+  specs: ""
+  cpu: i7-8
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 21500
+  url: https://www.laptap.com.ph/products/microsoft-surface-book-2-13-5
+- name: Microsoft Surface Book 3 13.3"
+  specs: ""
+  cpu: i7-10
+  ram: 32GB RAM
+  storage: 1TB SSD
+  extra: CAM
+  price: 26850
+  url: https://www.laptap.com.ph/products/microsoft-surface-book-3-13-3
+- name: Microsoft Surface Book 3 13.3"
+  specs: ""
+  cpu: i5-10
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 16650
+  url: https://www.laptap.com.ph/products/microsoft-surface-book-3-13-3
+- name: Microsoft Surface Laptop 13.5"
+  specs: ""
+  cpu: i5-7
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 12300
+  url: https://www.laptap.com.ph/products/microsoft-surface-laptop-13-5
+- name: Microsoft Surface Pro 3 1631 12"
+  specs: ""
+  cpu: i5-4
+  ram: 4GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 7500
+  url: https://www.laptap.com.ph/products/microsoft-surface-pro-3-1631-12
+- name: Microsoft Surface Pro 4 1724 12.3"
+  specs: ""
+  cpu: i5-6
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 14500
+  url: https://www.laptap.com.ph/products/microsoft-surface-pro-4-1724-12-3
+- name: Microsoft Surface Pro 5 1796 12.3"
+  specs: ""
+  cpu: i5-7
+  ram: 8GB RAM
+  storage: 128GB SSD
+  extra: CAM
+  price: 14700
+  url: https://www.laptap.com.ph/products/microsoft-surface-pro-5-1796-12-3
+- name: Microsoft Surface Pro 5 1796 12.3"
+  specs: ""
+  cpu: i5-7
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 15650
+  url: https://www.laptap.com.ph/products/microsoft-surface-pro-5-1796-12-3
+- name: Microsoft Surface Pro 5 1796 12.3"
+  specs: ""
+  cpu: i7-7
+  ram: 16GB RAM
+  storage: 512GB SSD
+  extra: CAM
+  price: 24700
+  url: https://www.laptap.com.ph/products/microsoft-surface-pro-5-1796-12-3
+- name: Microsoft Surface Pro 7+ 1961 12.3"
+  specs: ""
+  cpu: i7-11
+  ram: 16GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 33350
+  url: https://www.laptap.com.ph/products/microsoft-surface-pro-7-1961-12-3
+- name: Toshiba Portege Z30-B 13.3"
+  specs: ""
+  cpu: i5-5
+  ram: 8GB RAM
+  storage: 256GB SSD
+  extra: CAM
+  price: 9000
+  url: https://www.laptap.com.ph/products/toshiba-portege-z30-b-13-3
